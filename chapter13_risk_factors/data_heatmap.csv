@@ -1,0 +1,197 @@
+"Disease","Country","val","Rank"
+"High fasting plasma glucose","Global",1.56538657497,8
+"Metabolic risks","Global",1.63174998203,9
+"Metabolic risks","Central Europe, Eastern Europe, and Central Asia",2.21719437107,9
+"Behavioral risks","Global",0.83277635665,5
+"Behavioral risks","Central Europe, Eastern Europe, and Central Asia",1.23788820205,7
+"Smoking","Global",0.83277635665,5
+"All risk factors","Global",2.24453776084,10
+"Metabolic risks","Latin America and Caribbean",1.686266536,9
+"Metabolic risks","High-income",2.76975554728,10
+"Tobacco","Global",0.83277635665,5
+"High body-mass index","Global",0.10633884372,1
+"Metabolic risks","Southeast Asia, East Asia, and Oceania",1.16912860297,7
+"Behavioral risks","Latin America and Caribbean",0.55894542623,4
+"Behavioral risks","High-income",1.25457158625,7
+"Behavioral risks","Southeast Asia, East Asia, and Oceania",0.94929649157,6
+"Metabolic risks","North Africa and Middle East",1.63727451296,9
+"Behavioral risks","North Africa and Middle East",0.64624657596,4
+"Smoking","Central Europe, Eastern Europe, and Central Asia",1.23788820205,7
+"All risk factors","Central Europe, Eastern Europe, and Central Asia",3.15246461651,10
+"Smoking","Latin America and Caribbean",0.55894542623,4
+"Metabolic risks","South Asia",0.43021380615,3
+"All risk factors","Latin America and Caribbean",2.07775649526,9
+"Tobacco","Central Europe, Eastern Europe, and Central Asia",1.23788820205,7
+"Behavioral risks","South Asia",0.17086116302,2
+"High body-mass index","Central Europe, Eastern Europe, and Central Asia",0.31011207986,3
+"Metabolic risks","Sub-Saharan Africa",0.65149401008,5
+"Behavioral risks","Sub-Saharan Africa",0.18420764356,2
+"Tobacco","Latin America and Caribbean",0.55894542623,4
+"High body-mass index","Latin America and Caribbean",0.16651698949,2
+"Tobacco","World Bank Regions",0.83231370138,5
+"Tobacco","Southeast Asia, East Asia, and Oceania",0.94929649157,6
+"Metabolic risks","WHO region",1.62897751217,8
+"High body-mass index","Southeast Asia, East Asia, and Oceania",0.00141720967,1
+"Smoking","Southeast Asia, East Asia, and Oceania",0.94929649157,6
+"All risk factors","Southeast Asia, East Asia, and Oceania",1.91089484758,9
+"Smoking","Sub-Saharan Africa",0.18420764356,2
+"All risk factors","Sub-Saharan Africa",0.79219965371,5
+"High body-mass index","World Bank Regions",0.10616879339,1
+"High fasting plasma glucose","Central Europe, Eastern Europe, and Central Asia",1.99915746318,9
+"High fasting plasma glucose","Southeast Asia, East Asia, and Oceania",1.17068467717,7
+"Behavioral risks","WHO region",0.83215856384,5
+"Smoking","High-income",1.25457158625,7
+"High fasting plasma glucose","High-income",2.62998085025,10
+"High fasting plasma glucose","Sub-Saharan Africa",0.62519427923,4
+"Tobacco","Sub-Saharan Africa",0.18420764356,2
+"High fasting plasma glucose","North Africa and Middle East",1.50449308116,8
+"High body-mass index","Sub-Saharan Africa",0.04019325738,1
+"Smoking","South Asia",0.17086116302,2
+"All risk factors","South Asia",0.55262862901,4
+"Smoking","WHO region",0.83215856384,5
+"Tobacco","South Asia",0.17086116302,2
+"All risk factors","WHO region",2.24138282834,9
+"Tobacco","North Africa and Middle East",0.64624657596,4
+"All risk factors","High-income",3.65453588969,10
+"Smoking","North Africa and Middle East",0.64624657596,4
+"High fasting plasma glucose","South Asia",0.43244359989,3
+"High body-mass index","North Africa and Middle East",0.21723636709,2
+"High body-mass index","South Asia",-0.00238572046,1
+"Smoking","World Bank Regions",0.83231370138,5
+"All risk factors","World Bank Regions",2.24313945764,9
+"High fasting plasma glucose","WHO region",1.56255230835,8
+"Smoking","OECD Countries",1.20231142012,7
+"Metabolic risks","Commonwealth",0.79464214181,5
+"All risk factors","OECD Countries",3.56985668154,10
+"Metabolic risks","European Union",2.61504856312,10
+"Behavioral risks","Commonwealth",0.31216550929,3
+"High fasting plasma glucose","League of Arab States",1.20053772771,7
+"High fasting plasma glucose","European Union",2.45473464847,10
+"Tobacco","European Union",1.35409645592,8
+"High body-mass index","European Union",0.2417057558,2
+"All risk factors","North Africa and Middle East",2.0651447554,9
+"Tobacco","WHO region",0.83215856384,5
+"Smoking","G20",0.95010280998,6
+"Tobacco","G20",0.95010280998,6
+"High body-mass index","G20",0.11452367233,1
+"High fasting plasma glucose","Latin America and Caribbean",1.57955678914,8
+"High body-mass index","WHO region",0.10640251624,1
+"Metabolic risks","OECD Countries",2.72671040126,10
+"Behavioral risks","OECD Countries",1.20231142012,7
+"Metabolic risks","G20",1.79351629405,9
+"Behavioral risks","European Union",1.35409645592,8
+"Tobacco","OECD Countries",1.20231142012,7
+"High body-mass index","OECD Countries",0.23403319739,2
+"Metabolic risks","World Bank Regions",1.6306154182,8
+"Metabolic risks","League of Arab States",1.30840106731,8
+"Smoking","League of Arab States",0.518037756,4
+"All risk factors","League of Arab States",1.64429206011,9
+"High fasting plasma glucose","World Bank Regions",1.56435399805,8
+"Behavioral risks","League of Arab States",0.518037756,4
+"Behavioral risks","G20",0.95010280998,6
+"Tobacco","High-income",1.25457158625,7
+"All risk factors","G20",2.49456412956,10
+"Smoking","European Union",1.35409645592,8
+"Tobacco","League of Arab States",0.518037756,4
+"All risk factors","European Union",3.61227613224,10
+"Behavioral risks","World Bank Regions",0.83231370138,5
+"Tobacco","Commonwealth",0.31216550929,3
+"Smoking","Low SDI",0.13230254051,2
+"All risk factors","Low SDI",0.49959826791,4
+"Metabolic risks","Four World Regions",1.6306165828,9
+"Smoking","African Union",0.27328409448,2
+"High body-mass index","League of Arab States",0.18001874376,2
+"Metabolic risks","High-middle SDI",1.91765286985,9
+"Smoking","Commonwealth",0.31216550929,3
+"Behavioral risks","Four World Regions",0.83286100905,6
+"Metabolic risks","African Union",0.81194565096,5
+"High fasting plasma glucose","OECD Countries",2.58275209127,10
+"High fasting plasma glucose","African Union",0.76362292712,5
+"Metabolic risks","Low-middle SDI",0.65279588554,5
+"Behavioral risks","High-middle SDI",1.21689566733,7
+"Tobacco","Four World Regions",0.83286100905,6
+"Tobacco","Low SDI",0.13230254051,2
+"High body-mass index","Low SDI",-0.00213606574,1
+"High body-mass index","Four World Regions",0.10609920248,1
+"High body-mass index","High-income",0.22697311234,2
+"Metabolic risks","High SDI",2.79701636,10
+"Behavioral risks","African Union",0.27328409448,2
+"All risk factors","African Union",1.00747037945,6
+"Behavioral risks","Low-middle SDI",0.28647418554,3
+"All risk factors","Commonwealth",1.01910495962,6
+"High fasting plasma glucose","Four World Regions",1.56438999836,8
+"Behavioral risks","High SDI",1.28157142773,7
+"High fasting plasma glucose","Commonwealth",0.76377505897,5
+"Metabolic risks","Low SDI",0.39868033123,3
+"High body-mass index","Commonwealth",0.04708901211,1
+"High fasting plasma glucose","G20",1.72240306775,9
+"High fasting plasma glucose","High-middle SDI",1.81476166674,9
+"Behavioral risks","Low SDI",0.13230254051,2
+"Smoking","High-middle SDI",1.21689566733,7
+"Smoking","High SDI",1.28157142773,7
+"High fasting plasma glucose","High SDI",2.66317572958,10
+"All risk factors","High-middle SDI",2.84488161185,10
+"Metabolic risks","Nordic Region",2.54345283797,10
+"Smoking","Low-middle SDI",0.28647418554,3
+"Behavioral risks","Nordic Region",1.30178384941,7
+"Smoking","Four World Regions",0.83286100905,6
+"All risk factors","Low-middle SDI",0.86091596059,6
+"Smoking","Middle SDI",0.60256154095,4
+"High fasting plasma glucose","Low-middle SDI",0.63373134747,4
+"All risk factors","High SDI",3.69782096278,10
+"Metabolic risks","Middle SDI",1.02797964936,6
+"All risk factors","Four World Regions",2.24355168255,9
+"Tobacco","High-middle SDI",1.21689566733,7
+"Tobacco","High SDI",1.28157142773,7
+"All risk factors","Middle SDI",1.48848074395,8
+"High body-mass index","High-middle SDI",0.15233478219,2
+"Tobacco","African Union",0.27328409448,2
+"Behavioral risks","Middle SDI",0.60256154095,4
+"Tobacco","Low-middle SDI",0.28647418554,3
+"Tobacco","Middle SDI",0.60256154095,4
+"Smoking","Association of Southeast Asian Nations",0.53835877206,4
+"High fasting plasma glucose","Low SDI",0.40072994961,3
+"High body-mass index","High SDI",0.21984346725,2
+"Smoking","Nordic Region",1.30178384941,7
+"Tobacco","Organization of Islamic Cooperation",0.43702489761,3
+"Metabolic risks","Association of Southeast Asian Nations",0.90720219004,6
+"High body-mass index","Low-middle SDI",0.03063103568,1
+"High body-mass index","Organization of Islamic Cooperation",0.08366568945,1
+"High fasting plasma glucose","Nordic Region",2.42283940317,10
+"All risk factors","Association of Southeast Asian Nations",1.31699458043,8
+"High body-mass index","African Union",0.07659612868,1
+"Metabolic risks","Organization of Islamic Cooperation",0.9998923501,6
+"Behavioral risks","Association of Southeast Asian Nations",0.53835877206,4
+"High fasting plasma glucose","Middle SDI",1.00314328114,6
+"Metabolic risks","Gulf Cooperation Council",1.58831011628,8
+"Behavioral risks","Organization of Islamic Cooperation",0.43702489761,3
+"High fasting plasma glucose","Association of Southeast Asian Nations",0.91431094266,6
+"High body-mass index","Middle SDI",0.04136175936,1
+"Behavioral risks","Gulf Cooperation Council",0.37593067057,3
+"Metabolic risks","Health System Grouping Levels",1.63121246174,9
+"Metabolic risks","Sahel Region",0.52715550963,4
+"Behavioral risks","Health System Grouping Levels",0.83262671737,5
+"Behavioral risks","Sahel Region",0.11407786918,1
+"Tobacco","Association of Southeast Asian Nations",0.53835877206,4
+"Tobacco","Nordic Region",1.30178384941,7
+"High fasting plasma glucose","Organization of Islamic Cooperation",0.9488883263,6
+"High fasting plasma glucose","Gulf Cooperation Council",1.43626969649,8
+"Smoking","Organization of Islamic Cooperation",0.43702489761,3
+"All risk factors","Organization of Islamic Cooperation",1.30854113692,8
+"High fasting plasma glucose","Sahel Region",0.51501292361,4
+"Smoking","Health System Grouping Levels",0.83262671737,5
+"Smoking","Gulf Cooperation Council",0.37593067057,3
+"Smoking","Sahel Region",0.11407786918,1
+"All risk factors","Nordic Region",3.52567867192,10
+"Tobacco","Gulf Cooperation Council",0.37593067057,3
+"Tobacco","Sahel Region",0.11407786918,1
+"High body-mass index","Association of Southeast Asian Nations",-0.00845161511,1
+"Tobacco","Health System Grouping Levels",0.83262671737,5
+"High fasting plasma glucose","Health System Grouping Levels",1.56490896475,8
+"High body-mass index","Nordic Region",0.17785210753,2
+"All risk factors","Health System Grouping Levels",2.24391994653,10
+"All risk factors","Gulf Cooperation Council",1.8202967857,9
+"All risk factors","Sahel Region",0.61262436421,4
+"High body-mass index","Gulf Cooperation Council",0.26253260787,2
+"High body-mass index","Health System Grouping Levels",0.1062438118,1
+"High body-mass index","Sahel Region",0.01959423338,1

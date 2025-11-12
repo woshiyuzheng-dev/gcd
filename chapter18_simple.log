@@ -1,0 +1,1117 @@
+randomForest 4.7-1.2
+Type rfNews() to see new features/changes/bug fixes.
+
+载入程序包：‘ggplot2’
+
+The following object is masked from ‘package:randomForest’:
+
+    margin
+
+
+载入程序包：‘dplyr’
+
+The following object is masked from ‘package:randomForest’:
+
+    combine
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+载入程序包：‘MASS’
+
+The following object is masked from ‘package:dplyr’:
+
+    select
+
+授权验证通过，欢迎使用 GlobalburdenR 包！
+所有包已成功加载。
+
+=== 步骤4: 负二项回归分析 ===
+发现以下详细格式列名：
+measure_id
+measure_name
+location_id
+location_name
+sex_id
+sex_name
+age_id
+age_name
+cause_id
+cause_name
+metric_id
+metric_name 
+
+检测到详细列名格式，正在转换为标准GBD列名...
+列 measure 包含 1 个唯一值:
+[1] "Incidence"
+
+列 location 包含 204 个唯一值:
+  [1] "Democratic People's Republic of Korea"
+  [2] "Kiribati"                             
+  [3] "Philippines"                          
+  [4] "Micronesia (Federated States of)"     
+  [5] "Thailand"                             
+  [6] "China"                                
+  [7] "Samoa"                                
+  [8] "Indonesia"                            
+  [9] "Viet Nam"                             
+ [10] "Malaysia"                             
+ [11] "Tonga"                                
+ [12] "Kazakhstan"                           
+ [13] "Azerbaijan"                           
+ [14] "Fiji"                                 
+ [15] "Taiwan"                               
+ [16] "Marshall Islands"                     
+ [17] "Myanmar"                              
+ [18] "Sri Lanka"                            
+ [19] "Cambodia"                             
+ [20] "Armenia"                              
+ [21] "Papua New Guinea"                     
+ [22] "Timor-Leste"                          
+ [23] "Lao People's Democratic Republic"     
+ [24] "Solomon Islands"                      
+ [25] "Uzbekistan"                           
+ [26] "Tajikistan"                           
+ [27] "Maldives"                             
+ [28] "Albania"                              
+ [29] "Vanuatu"                              
+ [30] "Slovenia"                             
+ [31] "Georgia"                              
+ [32] "Hungary"                              
+ [33] "Belarus"                              
+ [34] "Latvia"                               
+ [35] "Montenegro"                           
+ [36] "Turkmenistan"                         
+ [37] "Mongolia"                             
+ [38] "Romania"                              
+ [39] "Bulgaria"                             
+ [40] "Slovakia"                             
+ [41] "North Macedonia"                      
+ [42] "Czechia"                              
+ [43] "Republic of Moldova"                  
+ [44] "Australia"                            
+ [45] "Kyrgyzstan"                           
+ [46] "Bosnia and Herzegovina"               
+ [47] "Poland"                               
+ [48] "Estonia"                              
+ [49] "Brunei Darussalam"                    
+ [50] "Republic of Korea"                    
+ [51] "Serbia"                               
+ [52] "Lithuania"                            
+ [53] "Croatia"                              
+ [54] "Russian Federation"                   
+ [55] "Austria"                              
+ [56] "Ukraine"                              
+ [57] "France"                               
+ [58] "Japan"                                
+ [59] "Ireland"                              
+ [60] "Greece"                               
+ [61] "Cyprus"                               
+ [62] "Belgium"                              
+ [63] "New Zealand"                          
+ [64] "Italy"                                
+ [65] "Netherlands"                          
+ [66] "Luxembourg"                           
+ [67] "Andorra"                              
+ [68] "Chile"                                
+ [69] "Finland"                              
+ [70] "Iceland"                              
+ [71] "Singapore"                            
+ [72] "Portugal"                             
+ [73] "Malta"                                
+ [74] "Germany"                              
+ [75] "Sweden"                               
+ [76] "Norway"                               
+ [77] "Israel"                               
+ [78] "Argentina"                            
+ [79] "United Kingdom"                       
+ [80] "Canada"                               
+ [81] "Denmark"                              
+ [82] "United States of America"             
+ [83] "Bolivia (Plurinational State of)"     
+ [84] "Antigua and Barbuda"                  
+ [85] "Trinidad and Tobago"                  
+ [86] "Bahamas"                              
+ [87] "Uruguay"                              
+ [88] "Barbados"                             
+ [89] "Brazil"                               
+ [90] "Cuba"                                 
+ [91] "Grenada"                              
+ [92] "Spain"                                
+ [93] "Switzerland"                          
+ [94] "Suriname"                             
+ [95] "Guatemala"                            
+ [96] "Dominican Republic"                   
+ [97] "Haiti"                                
+ [98] "Belize"                               
+ [99] "Saint Lucia"                          
+[100] "Colombia"                             
+[101] "Algeria"                              
+[102] "Guyana"                               
+[103] "Mexico"                               
+[104] "El Salvador"                          
+[105] "Dominica"                             
+[106] "Jordan"                               
+[107] "Peru"                                 
+[108] "Panama"                               
+[109] "Jamaica"                              
+[110] "Saint Vincent and the Grenadines"     
+[111] "Honduras"                             
+[112] "Paraguay"                             
+[113] "Ecuador"                              
+[114] "Nicaragua"                            
+[115] "Afghanistan"                          
+[116] "Qatar"                                
+[117] "Costa Rica"                           
+[118] "Venezuela (Bolivarian Republic of)"   
+[119] "Iraq"                                 
+[120] "Morocco"                              
+[121] "Lebanon"                              
+[122] "Egypt"                                
+[123] "Syrian Arab Republic"                 
+[124] "Yemen"                                
+[125] "Bhutan"                               
+[126] "Bahrain"                              
+[127] "Oman"                                 
+[128] "Saudi Arabia"                         
+[129] "Burundi"                              
+[130] "Türkiye"                             
+[131] "Angola"                               
+[132] "Libya"                                
+[133] "Kuwait"                               
+[134] "Botswana"                             
+[135] "Palestine"                            
+[136] "Nepal"                                
+[137] "United Arab Emirates"                 
+[138] "Comoros"                              
+[139] "India"                                
+[140] "Iran (Islamic Republic of)"           
+[141] "Tunisia"                              
+[142] "Gabon"                                
+[143] "Mauritius"                            
+[144] "Bangladesh"                           
+[145] "Benin"                                
+[146] "Rwanda"                               
+[147] "Democratic Republic of the Congo"     
+[148] "Djibouti"                             
+[149] "Central African Republic"             
+[150] "Malawi"                               
+[151] "Eritrea"                              
+[152] "Pakistan"                             
+[153] "Kenya"                                
+[154] "Congo"                                
+[155] "Somalia"                              
+[156] "Namibia"                              
+[157] "Equatorial Guinea"                    
+[158] "Ethiopia"                             
+[159] "Uganda"                               
+[160] "Cameroon"                             
+[161] "United Republic of Tanzania"          
+[162] "Mozambique"                           
+[163] "Madagascar"                           
+[164] "South Africa"                         
+[165] "Burkina Faso"                         
+[166] "Gambia"                               
+[167] "Chad"                                 
+[168] "Eswatini"                             
+[169] "Senegal"                              
+[170] "Seychelles"                           
+[171] "Zimbabwe"                             
+[172] "Lesotho"                              
+[173] "American Samoa"                       
+[174] "Togo"                                 
+[175] "Zambia"                               
+[176] "Mali"                                 
+[177] "Cabo Verde"                           
+[178] "Guinea-Bissau"                        
+[179] "Côte d'Ivoire"                        
+[180] "Niger"                                
+[181] "Liberia"                              
+[182] "Sierra Leone"                         
+[183] "Nigeria"                              
+[184] "Guinea"                               
+[185] "Cook Islands"                         
+[186] "Greenland"                            
+[187] "Ghana"                                
+[188] "Puerto Rico"                          
+[189] "Sao Tome and Principe"                
+[190] "Mauritania"                           
+[191] "Niue"                                 
+[192] "South Sudan"                          
+[193] "Palau"                                
+[194] "Bermuda"                              
+[195] "San Marino"                           
+[196] "Monaco"                               
+[197] "Nauru"                                
+[198] "Saint Kitts and Nevis"                
+[199] "Tuvalu"                               
+[200] "United States Virgin Islands"         
+[201] "Guam"                                 
+[202] "Northern Mariana Islands"             
+[203] "Tokelau"                              
+[204] "Sudan"                                
+
+列 sex 包含 3 个唯一值:
+[1] "Male"   "Female" "Both"  
+
+列 age 包含 2 个唯一值:
+[1] "All ages"         "Age-standardized"
+
+列 cause 包含 2 个唯一值:
+[1] "Ischemic heart disease" "Ischemic stroke"       
+
+列 rei : 无
+列 metric 包含 2 个唯一值:
+[1] "Number" "Rate"  
+
+列 year 包含 30 个唯一值:
+ [1] 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004
+[16] 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+
+列名转换完成。
+
+缺失以下标准列:  measure, location, sex, age, cause, metric 
+
+===== GBD 数据概览 =====
+
+measure (1 类):
+ -  Incidence 
+
+location (204 类):
+ -  Afghanistan 
+ -  Albania 
+ -  Algeria 
+ -  American Samoa 
+ -  Andorra 
+ -  Angola 
+ -  Antigua and Barbuda 
+ -  Argentina 
+ -  Armenia 
+ -  Australia 
+ -  Austria 
+ -  Azerbaijan 
+ -  Bahamas 
+ -  Bahrain 
+ -  Bangladesh 
+ -  Barbados 
+ -  Belarus 
+ -  Belgium 
+ -  Belize 
+ -  Benin 
+ -  Bermuda 
+ -  Bhutan 
+ -  Bolivia (Plurinational State of) 
+ -  Bosnia and Herzegovina 
+ -  Botswana 
+ -  Brazil 
+ -  Brunei Darussalam 
+ -  Bulgaria 
+ -  Burkina Faso 
+ -  Burundi 
+ -  Cabo Verde 
+ -  Cambodia 
+ -  Cameroon 
+ -  Canada 
+ -  Central African Republic 
+ -  Chad 
+ -  Chile 
+ -  China 
+ -  Colombia 
+ -  Comoros 
+ -  Congo 
+ -  Cook Islands 
+ -  Costa Rica 
+ -  Côte d'Ivoire 
+ -  Croatia 
+ -  Cuba 
+ -  Cyprus 
+ -  Czechia 
+ -  Democratic People's Republic of Korea 
+ -  Democratic Republic of the Congo 
+ -  Denmark 
+ -  Djibouti 
+ -  Dominica 
+ -  Dominican Republic 
+ -  Ecuador 
+ -  Egypt 
+ -  El Salvador 
+ -  Equatorial Guinea 
+ -  Eritrea 
+ -  Estonia 
+ -  Eswatini 
+ -  Ethiopia 
+ -  Fiji 
+ -  Finland 
+ -  France 
+ -  Gabon 
+ -  Gambia 
+ -  Georgia 
+ -  Germany 
+ -  Ghana 
+ -  Greece 
+ -  Greenland 
+ -  Grenada 
+ -  Guam 
+ -  Guatemala 
+ -  Guinea 
+ -  Guinea-Bissau 
+ -  Guyana 
+ -  Haiti 
+ -  Honduras 
+ -  Hungary 
+ -  Iceland 
+ -  India 
+ -  Indonesia 
+ -  Iran (Islamic Republic of) 
+ -  Iraq 
+ -  Ireland 
+ -  Israel 
+ -  Italy 
+ -  Jamaica 
+ -  Japan 
+ -  Jordan 
+ -  Kazakhstan 
+ -  Kenya 
+ -  Kiribati 
+ -  Kuwait 
+ -  Kyrgyzstan 
+ -  Lao People's Democratic Republic 
+ -  Latvia 
+ -  Lebanon 
+ -  Lesotho 
+ -  Liberia 
+ -  Libya 
+ -  Lithuania 
+ -  Luxembourg 
+ -  Madagascar 
+ -  Malawi 
+ -  Malaysia 
+ -  Maldives 
+ -  Mali 
+ -  Malta 
+ -  Marshall Islands 
+ -  Mauritania 
+ -  Mauritius 
+ -  Mexico 
+ -  Micronesia (Federated States of) 
+ -  Monaco 
+ -  Mongolia 
+ -  Montenegro 
+ -  Morocco 
+ -  Mozambique 
+ -  Myanmar 
+ -  Namibia 
+ -  Nauru 
+ -  Nepal 
+ -  Netherlands 
+ -  New Zealand 
+ -  Nicaragua 
+ -  Niger 
+ -  Nigeria 
+ -  Niue 
+ -  North Macedonia 
+ -  Northern Mariana Islands 
+ -  Norway 
+ -  Oman 
+ -  Pakistan 
+ -  Palau 
+ -  Palestine 
+ -  Panama 
+ -  Papua New Guinea 
+ -  Paraguay 
+ -  Peru 
+ -  Philippines 
+ -  Poland 
+ -  Portugal 
+ -  Puerto Rico 
+ -  Qatar 
+ -  Republic of Korea 
+ -  Republic of Moldova 
+ -  Romania 
+ -  Russian Federation 
+ -  Rwanda 
+ -  Saint Kitts and Nevis 
+ -  Saint Lucia 
+ -  Saint Vincent and the Grenadines 
+ -  Samoa 
+ -  San Marino 
+ -  Sao Tome and Principe 
+ -  Saudi Arabia 
+ -  Senegal 
+ -  Serbia 
+ -  Seychelles 
+ -  Sierra Leone 
+ -  Singapore 
+ -  Slovakia 
+ -  Slovenia 
+ -  Solomon Islands 
+ -  Somalia 
+ -  South Africa 
+ -  South Sudan 
+ -  Spain 
+ -  Sri Lanka 
+ -  Sudan 
+ -  Suriname 
+ -  Sweden 
+ -  Switzerland 
+ -  Syrian Arab Republic 
+ -  Taiwan 
+ -  Tajikistan 
+ -  Thailand 
+ -  Timor-Leste 
+ -  Togo 
+ -  Tokelau 
+ -  Tonga 
+ -  Trinidad and Tobago 
+ -  Tunisia 
+ -  Türkiye 
+ -  Turkmenistan 
+ -  Tuvalu 
+ -  Uganda 
+ -  Ukraine 
+ -  United Arab Emirates 
+ -  United Kingdom 
+ -  United Republic of Tanzania 
+ -  United States of America 
+ -  United States Virgin Islands 
+ -  Uruguay 
+ -  Uzbekistan 
+ -  Vanuatu 
+ -  Venezuela (Bolivarian Republic of) 
+ -  Viet Nam 
+ -  Yemen 
+ -  Zambia 
+ -  Zimbabwe 
+
+sex (3 类):
+ -  Both 
+ -  Female 
+ -  Male 
+
+age (2 类):
+ -  Age-standardized 
+ -  All ages 
+
+cause (2 类):
+ -  Ischemic heart disease 
+ -  Ischemic stroke 
+
+metric (2 类):
+ -  Number 
+ -  Rate 
+
+year (30 类): 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+正在读取文件 1 ，共 2 个： IHME-GBD_2021_DATA-ad396d11-1.csv 
+正在读取文件 2 ，共 2 个： IHME-GBD_2021_DATA-ad396d11-2.csv 
+发现以下详细格式列名：
+measure_id
+measure_name
+location_id
+location_name
+sex_id
+sex_name
+age_id
+age_name
+metric_id
+metric_name 
+
+检测到详细列名格式，正在转换为标准GBD列名...
+列 measure 包含 1 个唯一值:
+[1] "Summary exposure value"
+
+列 location 包含 204 个唯一值:
+  [1] "Niue"                                 
+  [2] "Northern Mariana Islands"             
+  [3] "Saint Kitts and Nevis"                
+  [4] "Democratic People's Republic of Korea"
+  [5] "Algeria"                              
+  [6] "Iran (Islamic Republic of)"           
+  [7] "Lithuania"                            
+  [8] "Ukraine"                              
+  [9] "Guinea"                               
+ [10] "Mali"                                 
+ [11] "Mauritania"                           
+ [12] "South Sudan"                          
+ [13] "Senegal"                              
+ [14] "Sierra Leone"                         
+ [15] "United States Virgin Islands"         
+ [16] "Panama"                               
+ [17] "Brazil"                               
+ [18] "Afghanistan"                          
+ [19] "India"                                
+ [20] "Nepal"                                
+ [21] "Iraq"                                 
+ [22] "Lebanon"                              
+ [23] "Sao Tome and Principe"                
+ [24] "Guyana"                               
+ [25] "Haiti"                                
+ [26] "Egypt"                                
+ [27] "Kuwait"                               
+ [28] "United Republic of Tanzania"          
+ [29] "Uganda"                               
+ [30] "Paraguay"                             
+ [31] "Bahrain"                              
+ [32] "Dominican Republic"                   
+ [33] "Grenada"                              
+ [34] "Taiwan (Province of China)"           
+ [35] "Indonesia"                            
+ [36] "Georgia"                              
+ [37] "Mongolia"                             
+ [38] "Tajikistan"                           
+ [39] "Nigeria"                              
+ [40] "Togo"                                 
+ [41] "Niger"                                
+ [42] "China"                                
+ [43] "Libya"                                
+ [44] "Oman"                                 
+ [45] "Belarus"                              
+ [46] "Estonia"                              
+ [47] "Rwanda"                               
+ [48] "Seychelles"                           
+ [49] "Jordan"                               
+ [50] "Saint Lucia"                          
+ [51] "Saint Vincent and the Grenadines"     
+ [52] "Bolivia (Plurinational State of)"     
+ [53] "Colombia"                             
+ [54] "Botswana"                             
+ [55] "South Africa"                         
+ [56] "Eswatini"                             
+ [57] "Palestine"                            
+ [58] "Japan"                                
+ [59] "Republic of Korea"                    
+ [60] "Slovenia"                             
+ [61] "Latvia"                               
+ [62] "Cambodia"                             
+ [63] "Honduras"                             
+ [64] "Albania"                              
+ [65] "Syrian Arab Republic"                 
+ [66] "Tunisia"                              
+ [67] "Mexico"                               
+ [68] "Venezuela (Bolivarian Republic of)"   
+ [69] "Cook Islands"                         
+ [70] "Greenland"                            
+ [71] "Greece"                               
+ [72] "Israel"                               
+ [73] "Italy"                                
+ [74] "Maldives"                             
+ [75] "Monaco"                               
+ [76] "Yemen"                                
+ [77] "Myanmar"                              
+ [78] "Thailand"                             
+ [79] "Czechia"                              
+ [80] "Bangladesh"                           
+ [81] "Bhutan"                               
+ [82] "Netherlands"                          
+ [83] "Australia"                            
+ [84] "New Zealand"                          
+ [85] "Hungary"                              
+ [86] "Poland"                               
+ [87] "Jamaica"                              
+ [88] "Suriname"                             
+ [89] "Trinidad and Tobago"                  
+ [90] "Ghana"                                
+ [91] "Palau"                                
+ [92] "San Marino"                           
+ [93] "Pakistan"                             
+ [94] "Timor-Leste"                          
+ [95] "Fiji"                                 
+ [96] "Brunei Darussalam"                    
+ [97] "Bermuda"                              
+ [98] "Democratic Republic of the Congo"     
+ [99] "Austria"                              
+[100] "American Samoa"                       
+[101] "Chad"                                 
+[102] "Republic of Moldova"                  
+[103] "Malawi"                               
+[104] "Mauritius"                            
+[105] "Benin"                                
+[106] "Lao People's Democratic Republic"     
+[107] "Samoa"                                
+[108] "Vanuatu"                              
+[109] "Tokelau"                              
+[110] "Cabo Verde"                           
+[111] "Kiribati"                             
+[112] "Azerbaijan"                           
+[113] "Romania"                              
+[114] "Canada"                               
+[115] "Belgium"                              
+[116] "Finland"                              
+[117] "Central African Republic"             
+[118] "Congo"                                
+[119] "Marshall Islands"                     
+[120] "Micronesia (Federated States of)"     
+[121] "El Salvador"                          
+[122] "Nicaragua"                            
+[123] "Lesotho"                              
+[124] "Zimbabwe"                             
+[125] "Tuvalu"                               
+[126] "Angola"                               
+[127] "Equatorial Guinea"                    
+[128] "Burundi"                              
+[129] "Eritrea"                              
+[130] "Cameroon"                             
+[131] "Qatar"                                
+[132] "Burkina Faso"                         
+[133] "Somalia"                              
+[134] "Zambia"                               
+[135] "Guam"                                 
+[136] "Russian Federation"                   
+[137] "Norway"                               
+[138] "Sweden"                               
+[139] "Kazakhstan"                           
+[140] "Guatemala"                            
+[141] "Comoros"                              
+[142] "Djibouti"                             
+[143] "Kenya"                                
+[144] "Turkey"                               
+[145] "Ethiopia"                             
+[146] "France"                               
+[147] "Morocco"                              
+[148] "Madagascar"                           
+[149] "Croatia"                              
+[150] "Papua New Guinea"                     
+[151] "Antigua and Barbuda"                  
+[152] "Belize"                               
+[153] "Barbados"                             
+[154] "Gabon"                                
+[155] "Sudan"                                
+[156] "Philippines"                          
+[157] "Namibia"                              
+[158] "Dominica"                             
+[159] "Turkmenistan"                         
+[160] "Switzerland"                          
+[161] "Ecuador"                              
+[162] "Viet Nam"                             
+[163] "Malaysia"                             
+[164] "Nauru"                                
+[165] "Armenia"                              
+[166] "Costa Rica"                           
+[167] "Cuba"                                 
+[168] "Bosnia and Herzegovina"               
+[169] "Mozambique"                           
+[170] "Argentina"                            
+[171] "Chile"                                
+[172] "North Macedonia"                      
+[173] "Montenegro"                           
+[174] "Serbia"                               
+[175] "Côte d'Ivoire"                        
+[176] "Gambia"                               
+[177] "Singapore"                            
+[178] "Solomon Islands"                      
+[179] "Puerto Rico"                          
+[180] "Peru"                                 
+[181] "Iceland"                              
+[182] "Ireland"                              
+[183] "Tonga"                                
+[184] "Slovakia"                             
+[185] "Saudi Arabia"                         
+[186] "Guinea-Bissau"                        
+[187] "Uzbekistan"                           
+[188] "Malta"                                
+[189] "Sri Lanka"                            
+[190] "Uruguay"                              
+[191] "Spain"                                
+[192] "Kyrgyzstan"                           
+[193] "United States of America"             
+[194] "Liberia"                              
+[195] "Portugal"                             
+[196] "Andorra"                              
+[197] "Bulgaria"                             
+[198] "Cyprus"                               
+[199] "United Arab Emirates"                 
+[200] "Germany"                              
+[201] "Bahamas"                              
+[202] "Denmark"                              
+[203] "Luxembourg"                           
+[204] "United Kingdom"                       
+
+列 sex 包含 1 个唯一值:
+[1] "Both"
+
+列 age 包含 2 个唯一值:
+[1] "All ages"         "Age-standardized"
+
+列 cause : 无
+列 rei 包含 41 个唯一值:
+ [1] "Particulate matter pollution"                     
+ [2] "Nitrogen dioxide pollution"                       
+ [3] "Unsafe water source"                              
+ [4] "Unsafe sanitation"                                
+ [5] "Ambient ozone pollution"                          
+ [6] "Residential radon"                                
+ [7] "Lead exposure"                                    
+ [8] "Smoking"                                          
+ [9] "Secondhand smoke"                                 
+[10] "High alcohol use"                                 
+[11] "Drug use"                                         
+[12] "High fasting plasma glucose"                      
+[13] "High systolic blood pressure"                     
+[14] "High body-mass index"                             
+[15] "Low bone mineral density"                         
+[16] "Diet low in fruits"                               
+[17] "Diet low in vegetables"                           
+[18] "Diet low in whole grains"                         
+[19] "Diet low in nuts and seeds"                       
+[20] "Diet low in milk"                                 
+[21] "Diet high in red meat"                            
+[22] "Diet high in processed meat"                      
+[23] "Diet high in sugar-sweetened beverages"           
+[24] "Diet low in fiber"                                
+[25] "Diet low in seafood omega-3 fatty acids"          
+[26] "Diet low in omega-6 polyunsaturated fatty acids"  
+[27] "Diet high in trans fatty acids"                   
+[28] "Diet high in sodium"                              
+[29] "Occupational carcinogens"                         
+[30] "Occupational asthmagens"                          
+[31] "Occupational particulate matter, gases, and fumes"
+[32] "Occupational noise"                               
+[33] "Occupational ergonomic factors"                   
+[34] "Diet low in calcium"                              
+[35] "No access to handwashing facility"                
+[36] "Chewing tobacco"                                  
+[37] "Diet low in legumes"                              
+[38] "High temperature"                                 
+[39] "Low temperature"                                  
+[40] "Kidney dysfunction"                               
+[41] "High LDL cholesterol"                             
+
+列 metric 包含 1 个唯一值:
+[1] "Rate"
+
+列 year 包含 32 个唯一值:
+ [1] 1998 2007 1995 1993 1990 1991 1999 2006 2002 2003 1994 1992 2000 2009 2005
+[16] 2001 2004 1996 2008 1997 2010 2012 2011 2013 2015 2019 2014 2016 2018 2017
+[31] 2021 2020
+
+列名转换完成。
+
+缺失以下标准列:  measure, location, sex, age, cause, metric 
+
+===== GBD 数据概览 =====
+
+measure (1 类):
+ -  Summary exposure value 
+
+location (204 类):
+ -  Afghanistan 
+ -  Albania 
+ -  Algeria 
+ -  American Samoa 
+ -  Andorra 
+ -  Angola 
+ -  Antigua and Barbuda 
+ -  Argentina 
+ -  Armenia 
+ -  Australia 
+ -  Austria 
+ -  Azerbaijan 
+ -  Bahamas 
+ -  Bahrain 
+ -  Bangladesh 
+ -  Barbados 
+ -  Belarus 
+ -  Belgium 
+ -  Belize 
+ -  Benin 
+ -  Bermuda 
+ -  Bhutan 
+ -  Bolivia (Plurinational State of) 
+ -  Bosnia and Herzegovina 
+ -  Botswana 
+ -  Brazil 
+ -  Brunei Darussalam 
+ -  Bulgaria 
+ -  Burkina Faso 
+ -  Burundi 
+ -  Cabo Verde 
+ -  Cambodia 
+ -  Cameroon 
+ -  Canada 
+ -  Central African Republic 
+ -  Chad 
+ -  Chile 
+ -  China 
+ -  Colombia 
+ -  Comoros 
+ -  Congo 
+ -  Cook Islands 
+ -  Costa Rica 
+ -  Côte d'Ivoire 
+ -  Croatia 
+ -  Cuba 
+ -  Cyprus 
+ -  Czechia 
+ -  Democratic People's Republic of Korea 
+ -  Democratic Republic of the Congo 
+ -  Denmark 
+ -  Djibouti 
+ -  Dominica 
+ -  Dominican Republic 
+ -  Ecuador 
+ -  Egypt 
+ -  El Salvador 
+ -  Equatorial Guinea 
+ -  Eritrea 
+ -  Estonia 
+ -  Eswatini 
+ -  Ethiopia 
+ -  Fiji 
+ -  Finland 
+ -  France 
+ -  Gabon 
+ -  Gambia 
+ -  Georgia 
+ -  Germany 
+ -  Ghana 
+ -  Greece 
+ -  Greenland 
+ -  Grenada 
+ -  Guam 
+ -  Guatemala 
+ -  Guinea 
+ -  Guinea-Bissau 
+ -  Guyana 
+ -  Haiti 
+ -  Honduras 
+ -  Hungary 
+ -  Iceland 
+ -  India 
+ -  Indonesia 
+ -  Iran (Islamic Republic of) 
+ -  Iraq 
+ -  Ireland 
+ -  Israel 
+ -  Italy 
+ -  Jamaica 
+ -  Japan 
+ -  Jordan 
+ -  Kazakhstan 
+ -  Kenya 
+ -  Kiribati 
+ -  Kuwait 
+ -  Kyrgyzstan 
+ -  Lao People's Democratic Republic 
+ -  Latvia 
+ -  Lebanon 
+ -  Lesotho 
+ -  Liberia 
+ -  Libya 
+ -  Lithuania 
+ -  Luxembourg 
+ -  Madagascar 
+ -  Malawi 
+ -  Malaysia 
+ -  Maldives 
+ -  Mali 
+ -  Malta 
+ -  Marshall Islands 
+ -  Mauritania 
+ -  Mauritius 
+ -  Mexico 
+ -  Micronesia (Federated States of) 
+ -  Monaco 
+ -  Mongolia 
+ -  Montenegro 
+ -  Morocco 
+ -  Mozambique 
+ -  Myanmar 
+ -  Namibia 
+ -  Nauru 
+ -  Nepal 
+ -  Netherlands 
+ -  New Zealand 
+ -  Nicaragua 
+ -  Niger 
+ -  Nigeria 
+ -  Niue 
+ -  North Macedonia 
+ -  Northern Mariana Islands 
+ -  Norway 
+ -  Oman 
+ -  Pakistan 
+ -  Palau 
+ -  Palestine 
+ -  Panama 
+ -  Papua New Guinea 
+ -  Paraguay 
+ -  Peru 
+ -  Philippines 
+ -  Poland 
+ -  Portugal 
+ -  Puerto Rico 
+ -  Qatar 
+ -  Republic of Korea 
+ -  Republic of Moldova 
+ -  Romania 
+ -  Russian Federation 
+ -  Rwanda 
+ -  Saint Kitts and Nevis 
+ -  Saint Lucia 
+ -  Saint Vincent and the Grenadines 
+ -  Samoa 
+ -  San Marino 
+ -  Sao Tome and Principe 
+ -  Saudi Arabia 
+ -  Senegal 
+ -  Serbia 
+ -  Seychelles 
+ -  Sierra Leone 
+ -  Singapore 
+ -  Slovakia 
+ -  Slovenia 
+ -  Solomon Islands 
+ -  Somalia 
+ -  South Africa 
+ -  South Sudan 
+ -  Spain 
+ -  Sri Lanka 
+ -  Sudan 
+ -  Suriname 
+ -  Sweden 
+ -  Switzerland 
+ -  Syrian Arab Republic 
+ -  Taiwan (Province of China) 
+ -  Tajikistan 
+ -  Thailand 
+ -  Timor-Leste 
+ -  Togo 
+ -  Tokelau 
+ -  Tonga 
+ -  Trinidad and Tobago 
+ -  Tunisia 
+ -  Turkey 
+ -  Turkmenistan 
+ -  Tuvalu 
+ -  Uganda 
+ -  Ukraine 
+ -  United Arab Emirates 
+ -  United Kingdom 
+ -  United Republic of Tanzania 
+ -  United States of America 
+ -  United States Virgin Islands 
+ -  Uruguay 
+ -  Uzbekistan 
+ -  Vanuatu 
+ -  Venezuela (Bolivarian Republic of) 
+ -  Viet Nam 
+ -  Yemen 
+ -  Zambia 
+ -  Zimbabwe 
+
+sex (1 类):
+ -  Both 
+
+age (2 类):
+ -  Age-standardized 
+ -  All ages 
+
+metric (1 类):
+ -  Rate 
+
+year (32 类): 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+初始数据行数: 110160
+条件 1: 'cause == "Ischemic heart disease"' - 从 110160 行过滤到 55080 行
+条件 2: 'measure == "Incidence"' - 从 55080 行过滤到 55080 行
+条件 3: 'age == "Age-standardized"' - 从 55080 行过滤到 18360 行
+条件 4: 'sex == "Both"' - 从 18360 行过滤到 6120 行
+条件 5: 'year == 2019' - 从 6120 行过滤到 204 行
+过滤完成。最终数据行数: 204 (保留了 0.2%)
+初始数据行数: 535296
+条件 1: 'age == "Age-standardized"' - 从 535296 行过滤到 267648 行
+条件 2: 'sex == "Both"' - 从 267648 行过滤到 267648 行
+条件 3: 'year == 2019' - 从 267648 行过滤到 8364 行
+过滤完成。最终数据行数: 8364 (保留了 1.6%)
+回归数据准备完成:
+  - 样本数: 202 
+  - 预测变量数: 41 
+
+拟合负二项回归模型...
+✅ 模型拟合完成
+  - AIC: 2428.34 
+警告信息:
+1: `geom_errobarh()` was deprecated in ggplot2 4.0.0.
+ℹ Please use the `orientation` argument of `geom_errorbar()` instead. 
+2: Using `size` aesthetic for lines was deprecated in ggplot2 3.4.0.
+ℹ Please use `linewidth` instead.
+ℹ The deprecated feature was likely used in the ggplot2 package.
+  Please report the issue at <https://github.com/tidyverse/ggplot2/issues>. 
+3: The `size` argument of `element_line()` is deprecated as of ggplot2 3.4.0.
+ℹ Please use the `linewidth` argument instead. 
+`height` was translated to `width`.
+警告信息:
+Removed 1 row containing missing values or values outside the scale range
+(`geom_point()`). 
+✅ 保存: 03_forest_plot_rr.png ( 0.61 MB)
+
+=== 步骤5: 人群归因分值(PAF)分析 ===
+
+PAF计算完成:
+  - PAF范围: -1.2264 - 1.6375 
+
+各地区联合PAF计算完成 (前10个地区):
+# A tibble: 10 × 3
+   location             n_risk_factors  cpaf
+   <chr>                         <int> <dbl>
+ 1 Sudan                            41  2.60
+ 2 Iraq                             41  2.60
+ 3 Egypt                            41  2.53
+ 4 Bahrain                          41  2.51
+ 5 United Arab Emirates             41  2.50
+ 6 Libya                            41  2.49
+ 7 Afghanistan                      41  2.48
+ 8 Uzbekistan                       41  2.38
+ 9 Kuwait                           41  2.37
+10 Qatar                            41  2.36
+
+各风险因素联合PAF (前10个因素):
+# A tibble: 10 × 3
+   rei                                             n_locations  cpaf
+   <chr>                                                 <int> <dbl>
+ 1 Occupational noise                                      204  81.6
+ 2 High systolic blood pressure                            204  61.6
+ 3 Occupational asthmagens                                 204  57.4
+ 4 High LDL cholesterol                                    204  54.5
+ 5 High body-mass index                                    204  49.4
+ 6 Diet low in whole grains                                204  47.1
+ 7 Secondhand smoke                                        204  42.7
+ 8 Particulate matter pollution                            204  33.5
+ 9 Unsafe sanitation                                       204  26.1
+10 Diet low in omega-6 polyunsaturated fatty acids         204  23.8
+
+✅ PAF结果已保存为CSV文件
+
+=== 步骤6: 生成多风险因素地图组合 ===
+选择的风险因素:
+   1 . High LDL cholesterol 
+   2 . Particulate matter pollution 
+   3 . Air pollution 
+   4 . High alcohol use 
+   5 . High fasting plasma glucose 
+   6 . Smoking 
+
+生成风险因素地图组合...
+
+载入程序包：‘gridExtra’
+
+The following object is masked from ‘package:dplyr’:
+
+    combine
+
+The following object is masked from ‘package:randomForest’:
+
+    combine
+
+警告信息:
+In cocurrence_risk_factor_maps(data = sev, rei_filter = selected_factors,  :
+  以下风险因素在数据中不存在: Air pollution
+✅ 保存: 04_risk_factor_maps_combined.png ( 1.59 MB)
+
+================================================================================
+✓ Chapter 18 共病分析完成!
+================================================================================

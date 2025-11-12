@@ -1,0 +1,2 @@
+"age_group","model_type","error_type","trend_type","season_type","alpha","beta","gamma","phi","aic","bic","aicc","loglik","sigma2"
+"<5 years","ETS(A,A,N)","A","A","N",0.9999,1e-04,NA,NA,-145.626,-138.298,-143.319,77.813,0.000276

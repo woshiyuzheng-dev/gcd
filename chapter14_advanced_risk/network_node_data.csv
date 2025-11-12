@@ -1,0 +1,10 @@
+"rei","total_burden","location_count","node_id","node_label","avg_correlation","degree"
+"Metabolic risks",377.25714873872,232,1,"Metabolic risks",0.835340374585578,5
+"High fasting plasma glucose",355.12761797907,232,2,"High fasting
+plasma glucose",0.823339544215694,5
+"Behavioral risks",160.10440705984,232,3,"Behavioral
+risks",0.84364232175961,5
+"Smoking",160.10440705984,232,4,"Smoking",0.84364232175961,5
+"Tobacco",160.10440705984,232,5,"Tobacco",0.84364232175961,5
+"High body-mass index",34.88199335388,232,6,"High body-mass
+index",0.731964911415441,5

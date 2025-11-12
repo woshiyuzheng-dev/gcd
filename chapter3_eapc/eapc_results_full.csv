@@ -1,0 +1,499 @@
+"location","sex","age","EAPC","LCI","UCI","p_value","sig_symbol","EAPC_CI"
+"Belize","Both","Age-standardized",-4.76,-5.02,-4.51,0,"***","-4.76***
+(-5.02 to -4.51)"
+"Namibia","Both","Age-standardized",-3.74,-3.99,-3.49,0,"***","-3.74***
+(-3.99 to -3.49)"
+"Andorra","Both","Age-standardized",-5.12,-5.35,-4.89,0,"***","-5.12***
+(-5.35 to -4.89)"
+"Tokelau","Both","Age-standardized",-4.64,-4.77,-4.51,0,"***","-4.64***
+(-4.77 to -4.51)"
+"Afghanistan","Both","Age-standardized",-3.33,-3.65,-3,0,"***","-3.33***
+(-3.65 to -3)"
+"Belarus","Both","Age-standardized",-2.61,-4.14,-1.06,0.0025,"**","-2.61**
+(-4.14 to -1.06)"
+"Eritrea","Both","Age-standardized",-3.24,-3.44,-3.03,0,"***","-3.24***
+(-3.44 to -3.03)"
+"Greece","Both","Age-standardized",-4.78,-5.39,-4.17,0,"***","-4.78***
+(-5.39 to -4.17)"
+"Lebanon","Both","Age-standardized",-6.37,-6.7,-6.03,0,"***","-6.37***
+(-6.7 to -6.03)"
+"Angola","Both","Age-standardized",-4.26,-4.45,-4.07,0,"***","-4.26***
+(-4.45 to -4.07)"
+"South Africa","Both","Age-standardized",-1.18,-1.74,-0.62,3e-04,"***","-1.18***
+(-1.74 to -0.62)"
+"Cuba","Both","Age-standardized",-4.67,-5.29,-4.05,0,"***","-4.67***
+(-5.29 to -4.05)"
+"Spain","Both","Age-standardized",-6.1,-6.32,-5.88,0,"***","-6.1***
+(-6.32 to -5.88)"
+"Albania","Both","Age-standardized",-5.74,-6.06,-5.43,0,"***","-5.74***
+(-6.06 to -5.43)"
+"Lithuania","Both","Age-standardized",-3.64,-4.62,-2.64,0,"***","-3.64***
+(-4.62 to -2.64)"
+"Haiti","Both","Age-standardized",-3,-3.16,-2.83,0,"***","-3***
+(-3.16 to -2.83)"
+"Togo","Both","Age-standardized",-2.39,-2.62,-2.15,0,"***","-2.39***
+(-2.62 to -2.15)"
+"Burkina Faso","Both","Age-standardized",-2.61,-2.76,-2.46,0,"***","-2.61***
+(-2.76 to -2.46)"
+"Bulgaria","Both","Age-standardized",-6.07,-6.74,-5.4,0,"***","-6.07***
+(-6.74 to -5.4)"
+"Argentina","Both","Age-standardized",-3.65,-4.03,-3.27,0,"***","-3.65***
+(-4.03 to -3.27)"
+"Estonia","Both","Age-standardized",-5.89,-7.08,-4.69,0,"***","-5.89***
+(-7.08 to -4.69)"
+"Indonesia","Both","Age-standardized",-4.09,-4.38,-3.81,0,"***","-4.09***
+(-4.38 to -3.81)"
+"Ethiopia","Both","Age-standardized",-5.68,-6.01,-5.34,0,"***","-5.68***
+(-6.01 to -5.34)"
+"Nepal","Both","Age-standardized",-5.71,-5.88,-5.54,0,"***","-5.71***
+(-5.88 to -5.54)"
+"Austria","Both","Age-standardized",-5.6,-5.86,-5.34,0,"***","-5.6***
+(-5.86 to -5.34)"
+"Morocco","Both","Age-standardized",-4.5,-4.64,-4.35,0,"***","-4.5***
+(-4.64 to -4.35)"
+"Nicaragua","Both","Age-standardized",-5.27,-5.49,-5.06,0,"***","-5.27***
+(-5.49 to -5.06)"
+"Bangladesh","Both","Age-standardized",-6.61,-6.85,-6.37,0,"***","-6.61***
+(-6.85 to -6.37)"
+"Seychelles","Both","Age-standardized",-4.13,-4.37,-3.88,0,"***","-4.13***
+(-4.37 to -3.88)"
+"Iceland","Both","Age-standardized",-5.5,-5.68,-5.33,0,"***","-5.5***
+(-5.68 to -5.33)"
+"Mauritius","Both","Age-standardized",-4.48,-4.81,-4.15,0,"***","-4.48***
+(-4.81 to -4.15)"
+"Niger","Both","Age-standardized",-1.84,-1.97,-1.72,0,"***","-1.84***
+(-1.97 to -1.72)"
+"Solomon Islands","Both","Age-standardized",-2.08,-2.23,-1.93,0,"***","-2.08***
+(-2.23 to -1.93)"
+"Dominica","Both","Age-standardized",-3.55,-3.74,-3.36,0,"***","-3.55***
+(-3.74 to -3.36)"
+"China","Both","Age-standardized",-8.61,-8.85,-8.37,0,"***","-8.61***
+(-8.85 to -8.37)"
+"Marshall Islands","Both","Age-standardized",-2.48,-2.75,-2.22,0,"***","-2.48***
+(-2.75 to -2.22)"
+"American Samoa","Both","Age-standardized",-3.71,-3.88,-3.54,0,"***","-3.71***
+(-3.88 to -3.54)"
+"Trinidad and Tobago","Both","Age-standardized",-4.36,-4.84,-3.88,0,"***","-4.36***
+(-4.84 to -3.88)"
+"Libya","Both","Age-standardized",-2.62,-2.98,-2.25,0,"***","-2.62***
+(-2.98 to -2.25)"
+"France","Both","Age-standardized",-6.76,-7.06,-6.45,0,"***","-6.76***
+(-7.06 to -6.45)"
+"Antigua and Barbuda","Both","Age-standardized",-5.39,-5.73,-5.04,0,"***","-5.39***
+(-5.73 to -5.04)"
+"Azerbaijan","Both","Age-standardized",-5.1,-5.72,-4.47,0,"***","-5.1***
+(-5.72 to -4.47)"
+"Guatemala","Both","Age-standardized",-7.37,-8.06,-6.68,0,"***","-7.37***
+(-8.06 to -6.68)"
+"Greenland","Both","Age-standardized",-4.61,-4.9,-4.32,0,"***","-4.61***
+(-4.9 to -4.32)"
+"Nigeria","Both","Age-standardized",-4.66,-4.98,-4.33,0,"***","-4.66***
+(-4.98 to -4.33)"
+"Democratic People's Republic of Korea","Both","Age-standardized",-2.65,-2.9,-2.4,0,"***","-2.65***
+(-2.9 to -2.4)"
+"Dominican Republic","Both","Age-standardized",-4.91,-5.41,-4.4,0,"***","-4.91***
+(-5.41 to -4.4)"
+"Bermuda","Both","Age-standardized",-6.94,-7.24,-6.64,0,"***","-6.94***
+(-7.24 to -6.64)"
+"Micronesia (Federated States of)","Both","Age-standardized",-2.81,-2.94,-2.69,0,"***","-2.81***
+(-2.94 to -2.69)"
+"Philippines","Both","Age-standardized",-2.2,-2.45,-1.96,0,"***","-2.2***
+(-2.45 to -1.96)"
+"Panama","Both","Age-standardized",-4.25,-4.51,-3.99,0,"***","-4.25***
+(-4.51 to -3.99)"
+"Mozambique","Both","Age-standardized",-3.33,-3.59,-3.06,0,"***","-3.33***
+(-3.59 to -3.06)"
+"Palestine","Both","Age-standardized",-5.44,-5.63,-5.25,0,"***","-5.44***
+(-5.63 to -5.25)"
+"Cameroon","Both","Age-standardized",-2.85,-3.1,-2.61,0,"***","-2.85***
+(-3.1 to -2.61)"
+"Republic of Moldova","Both","Age-standardized",-3.02,-4.39,-1.63,2e-04,"***","-3.02***
+(-4.39 to -1.63)"
+"Guinea-Bissau","Both","Age-standardized",-2.14,-2.27,-2.01,0,"***","-2.14***
+(-2.27 to -2.01)"
+"Timor-Leste","Both","Age-standardized",-3.07,-3.23,-2.91,0,"***","-3.07***
+(-3.23 to -2.91)"
+"Croatia","Both","Age-standardized",-7.55,-7.89,-7.2,0,"***","-7.55***
+(-7.89 to -7.2)"
+"Belgium","Both","Age-standardized",-5.25,-5.43,-5.06,0,"***","-5.25***
+(-5.43 to -5.06)"
+"Guam","Both","Age-standardized",-2.78,-3.67,-1.87,0,"***","-2.78***
+(-3.67 to -1.87)"
+"Peru","Both","Age-standardized",-6.13,-6.86,-5.38,0,"***","-6.13***
+(-6.86 to -5.38)"
+"Pakistan","Both","Age-standardized",-3.96,-4.21,-3.7,0,"***","-3.96***
+(-4.21 to -3.7)"
+"Bahamas","Both","Age-standardized",-4.75,-5.09,-4.41,0,"***","-4.75***
+(-5.09 to -4.41)"
+"Honduras","Both","Age-standardized",-4.39,-4.65,-4.13,0,"***","-4.39***
+(-4.65 to -4.13)"
+"Tonga","Both","Age-standardized",-2.66,-2.8,-2.52,0,"***","-2.66***
+(-2.8 to -2.52)"
+"Eswatini","Both","Age-standardized",-3.41,-3.99,-2.83,0,"***","-3.41***
+(-3.99 to -2.83)"
+"Sao Tome and Principe","Both","Age-standardized",-3.81,-4.13,-3.48,0,"***","-3.81***
+(-4.13 to -3.48)"
+"Chile","Both","Age-standardized",-4.95,-5.22,-4.67,0,"***","-4.95***
+(-5.22 to -4.67)"
+"Malaysia","Both","Age-standardized",-4.88,-5.11,-4.65,0,"***","-4.88***
+(-5.11 to -4.65)"
+"Sri Lanka","Both","Age-standardized",-6.3,-6.58,-6.01,0,"***","-6.3***
+(-6.58 to -6.01)"
+"Armenia","Both","Age-standardized",-5.68,-6.83,-4.5,0,"***","-5.68***
+(-6.83 to -4.5)"
+"Taiwan (Province of China)","Both","Age-standardized",-8.06,-8.36,-7.75,0,"***","-8.06***
+(-8.36 to -7.75)"
+"Jamaica","Both","Age-standardized",-4.49,-4.8,-4.19,0,"***","-4.49***
+(-4.8 to -4.19)"
+"Lao People's Democratic Republic","Both","Age-standardized",-4.99,-5.21,-4.78,0,"***","-4.99***
+(-5.21 to -4.78)"
+"Gambia","Both","Age-standardized",-2.25,-2.45,-2.04,0,"***","-2.25***
+(-2.45 to -2.04)"
+"Sweden","Both","Age-standardized",-5.44,-5.63,-5.25,0,"***","-5.44***
+(-5.63 to -5.25)"
+"Republic of Korea","Both","Age-standardized",-7.47,-7.62,-7.32,0,"***","-7.47***
+(-7.62 to -7.32)"
+"Ireland","Both","Age-standardized",-6.59,-6.78,-6.41,0,"***","-6.59***
+(-6.78 to -6.41)"
+"Syrian Arab Republic","Both","Age-standardized",-4.74,-5.12,-4.35,0,"***","-4.74***
+(-5.12 to -4.35)"
+"Vanuatu","Both","Age-standardized",-2.16,-2.29,-2.03,0,"***","-2.16***
+(-2.29 to -2.03)"
+"Zimbabwe","Both","Age-standardized",1.99,1.01,2.98,3e-04,"***","1.99***
+(1.01 to 2.98)"
+"Switzerland","Both","Age-standardized",-6.14,-6.34,-5.94,0,"***","-6.14***
+(-6.34 to -5.94)"
+"Mexico","Both","Age-standardized",-6.21,-6.78,-5.64,0,"***","-6.21***
+(-6.78 to -5.64)"
+"Papua New Guinea","Both","Age-standardized",-2.23,-2.29,-2.16,0,"***","-2.23***
+(-2.29 to -2.16)"
+"Poland","Both","Age-standardized",-5.79,-6.2,-5.39,0,"***","-5.79***
+(-6.2 to -5.39)"
+"Venezuela (Bolivarian Republic of)","Both","Age-standardized",-3.58,-4.26,-2.89,0,"***","-3.58***
+(-4.26 to -2.89)"
+"Saint Lucia","Both","Age-standardized",-5.55,-5.89,-5.21,0,"***","-5.55***
+(-5.89 to -5.21)"
+"Tunisia","Both","Age-standardized",-6.68,-6.9,-6.45,0,"***","-6.68***
+(-6.9 to -6.45)"
+"Senegal","Both","Age-standardized",-3.19,-3.36,-3.02,0,"***","-3.19***
+(-3.36 to -3.02)"
+"Romania","Both","Age-standardized",-4.12,-4.69,-3.56,0,"***","-4.12***
+(-4.69 to -3.56)"
+"Cook Islands","Both","Age-standardized",-5.46,-5.69,-5.23,0,"***","-5.46***
+(-5.69 to -5.23)"
+"Australia","Both","Age-standardized",-4.45,-4.73,-4.17,0,"***","-4.45***
+(-4.73 to -4.17)"
+"Liberia","Both","Age-standardized",-3.47,-3.82,-3.11,0,"***","-3.47***
+(-3.82 to -3.11)"
+"Niue","Both","Age-standardized",-3.41,-3.51,-3.3,0,"***","-3.41***
+(-3.51 to -3.3)"
+"Latvia","Both","Age-standardized",-4.45,-5.37,-3.51,0,"***","-4.45***
+(-5.37 to -3.51)"
+"Kenya","Both","Age-standardized",-2.37,-2.77,-1.97,0,"***","-2.37***
+(-2.77 to -1.97)"
+"Grenada","Both","Age-standardized",-4.99,-5.34,-4.64,0,"***","-4.99***
+(-5.34 to -4.64)"
+"Cyprus","Both","Age-standardized",-6.68,-7.1,-6.26,0,"***","-6.68***
+(-7.1 to -6.26)"
+"Russian Federation","Both","Age-standardized",-3.97,-5.35,-2.58,0,"***","-3.97***
+(-5.35 to -2.58)"
+"Maldives","Both","Age-standardized",-7.71,-8.14,-7.27,0,"***","-7.71***
+(-8.14 to -7.27)"
+"Israel","Both","Age-standardized",-6.53,-6.83,-6.23,0,"***","-6.53***
+(-6.83 to -6.23)"
+"United States of America","Both","Age-standardized",-4.81,-5.52,-4.1,0,"***","-4.81***
+(-5.52 to -4.1)"
+"Viet Nam","Both","Age-standardized",-5.03,-5.1,-4.96,0,"***","-5.03***
+(-5.1 to -4.96)"
+"Bhutan","Both","Age-standardized",-5.12,-5.26,-4.98,0,"***","-5.12***
+(-5.26 to -4.98)"
+"Georgia","Both","Age-standardized",-4.59,-5.43,-3.73,0,"***","-4.59***
+(-5.43 to -3.73)"
+"Somalia","Both","Age-standardized",-2.21,-2.43,-1.99,0,"***","-2.21***
+(-2.43 to -1.99)"
+"Palau","Both","Age-standardized",-2.41,-2.57,-2.25,0,"***","-2.41***
+(-2.57 to -2.25)"
+"South Sudan","Both","Age-standardized",-1.38,-1.73,-1.02,0,"***","-1.38***
+(-1.73 to -1.02)"
+"Turkey","Both","Age-standardized",-8.39,-8.91,-7.86,0,"***","-8.39***
+(-8.91 to -7.86)"
+"United Kingdom","Both","Age-standardized",-4.16,-4.33,-3.99,0,"***","-4.16***
+(-4.33 to -3.99)"
+"Central African Republic","Both","Age-standardized",-1.36,-1.51,-1.22,0,"***","-1.36***
+(-1.51 to -1.22)"
+"Italy","Both","Age-standardized",-5.36,-5.66,-5.05,0,"***","-5.36***
+(-5.66 to -5.05)"
+"Brunei Darussalam","Both","Age-standardized",-5.14,-5.39,-4.89,0,"***","-5.14***
+(-5.39 to -4.89)"
+"Bolivia (Plurinational State of)","Both","Age-standardized",-5.95,-6.12,-5.79,0,"***","-5.95***
+(-6.12 to -5.79)"
+"Cabo Verde","Both","Age-standardized",-4.58,-4.84,-4.33,0,"***","-4.58***
+(-4.84 to -4.33)"
+"Ghana","Both","Age-standardized",-3.03,-3.15,-2.92,0,"***","-3.03***
+(-3.15 to -2.92)"
+"Algeria","Both","Age-standardized",-4.47,-4.69,-4.24,0,"***","-4.47***
+(-4.69 to -4.24)"
+"Uruguay","Both","Age-standardized",-3.2,-3.56,-2.85,0,"***","-3.2***
+(-3.56 to -2.85)"
+"Madagascar","Both","Age-standardized",-2.72,-2.89,-2.55,0,"***","-2.72***
+(-2.89 to -2.55)"
+"Sierra Leone","Both","Age-standardized",-2.18,-2.4,-1.95,0,"***","-2.18***
+(-2.4 to -1.95)"
+"Puerto Rico","Both","Age-standardized",-6.68,-6.99,-6.37,0,"***","-6.68***
+(-6.99 to -6.37)"
+"Mauritania","Both","Age-standardized",-3.86,-4.01,-3.71,0,"***","-3.86***
+(-4.01 to -3.71)"
+"Saint Vincent and the Grenadines","Both","Age-standardized",-4.76,-5.09,-4.43,0,"***","-4.76***
+(-5.09 to -4.43)"
+"Czechia","Both","Age-standardized",-6.26,-6.45,-6.07,0,"***","-6.26***
+(-6.45 to -6.07)"
+"Democratic Republic of the Congo","Both","Age-standardized",-1.72,-2.11,-1.34,0,"***","-1.72***
+(-2.11 to -1.34)"
+"Japan","Both","Age-standardized",-5.37,-5.61,-5.12,0,"***","-5.37***
+(-5.61 to -5.12)"
+"Myanmar","Both","Age-standardized",-6.42,-6.73,-6.11,0,"***","-6.42***
+(-6.73 to -6.11)"
+"Kazakhstan","Both","Age-standardized",-7.7,-9.3,-6.06,0,"***","-7.7***
+(-9.3 to -6.06)"
+"Malawi","Both","Age-standardized",-3.66,-3.89,-3.43,0,"***","-3.66***
+(-3.89 to -3.43)"
+"Bosnia and Herzegovina","Both","Age-standardized",-6.55,-6.83,-6.27,0,"***","-6.55***
+(-6.83 to -6.27)"
+"Chad","Both","Age-standardized",-1.64,-1.85,-1.43,0,"***","-1.64***
+(-1.85 to -1.43)"
+"Denmark","Both","Age-standardized",-5.45,-5.7,-5.2,0,"***","-5.45***
+(-5.7 to -5.2)"
+"Bahrain","Both","Age-standardized",-6.23,-6.45,-6.01,0,"***","-6.23***
+(-6.45 to -6.01)"
+"Congo","Both","Age-standardized",-3.71,-3.95,-3.47,0,"***","-3.71***
+(-3.95 to -3.47)"
+"Cambodia","Both","Age-standardized",-5.2,-5.46,-4.95,0,"***","-5.2***
+(-5.46 to -4.95)"
+"New Zealand","Both","Age-standardized",-7.18,-7.75,-6.62,0,"***","-7.18***
+(-7.75 to -6.62)"
+"United Arab Emirates","Both","Age-standardized",-5.31,-5.48,-5.14,0,"***","-5.31***
+(-5.48 to -5.14)"
+"Suriname","Both","Age-standardized",-3.61,-3.9,-3.31,0,"***","-3.61***
+(-3.9 to -3.31)"
+"Northern Mariana Islands","Both","Age-standardized",-2.4,-2.63,-2.16,0,"***","-2.4***
+(-2.63 to -2.16)"
+"Singapore","Both","Age-standardized",-7.43,-7.69,-7.18,0,"***","-7.43***
+(-7.69 to -7.18)"
+"Benin","Both","Age-standardized",-2.82,-3.01,-2.63,0,"***","-2.82***
+(-3.01 to -2.63)"
+"Barbados","Both","Age-standardized",-4.94,-5.33,-4.55,0,"***","-4.94***
+(-5.33 to -4.55)"
+"Hungary","Both","Age-standardized",-8.24,-8.48,-8,0,"***","-8.24***
+(-8.48 to -8)"
+"Luxembourg","Both","Age-standardized",-6.29,-6.45,-6.12,0,"***","-6.29***
+(-6.45 to -6.12)"
+"Guyana","Both","Age-standardized",-3.93,-4.28,-3.58,0,"***","-3.93***
+(-4.28 to -3.58)"
+"Canada","Both","Age-standardized",-4.5,-5.17,-3.83,0,"***","-4.5***
+(-5.17 to -3.83)"
+"Samoa","Both","Age-standardized",-2.66,-2.82,-2.5,0,"***","-2.66***
+(-2.82 to -2.5)"
+"Montenegro","Both","Age-standardized",-4.15,-4.61,-3.69,0,"***","-4.15***
+(-4.61 to -3.69)"
+"Monaco","Both","Age-standardized",-4.14,-4.53,-3.75,0,"***","-4.14***
+(-4.53 to -3.75)"
+"Finland","Both","Age-standardized",-6.42,-6.61,-6.22,0,"***","-6.42***
+(-6.61 to -6.22)"
+"Equatorial Guinea","Both","Age-standardized",-8.65,-9.38,-7.92,0,"***","-8.65***
+(-9.38 to -7.92)"
+"Oman","Both","Age-standardized",-5.75,-6.16,-5.35,0,"***","-5.75***
+(-6.16 to -5.35)"
+"Serbia","Both","Age-standardized",-6.32,-6.73,-5.91,0,"***","-6.32***
+(-6.73 to -5.91)"
+"Malta","Both","Age-standardized",-6.14,-6.29,-5.99,0,"***","-6.14***
+(-6.29 to -5.99)"
+"Côte d'Ivoire","Both","Age-standardized",-2.28,-2.52,-2.04,0,"***","-2.28***
+(-2.52 to -2.04)"
+"Kyrgyzstan","Both","Age-standardized",-4.78,-6.1,-3.44,0,"***","-4.78***
+(-6.1 to -3.44)"
+"Saint Kitts and Nevis","Both","Age-standardized",-5.98,-6.26,-5.71,0,"***","-5.98***
+(-6.26 to -5.71)"
+"Burundi","Both","Age-standardized",-2.66,-2.79,-2.53,0,"***","-2.66***
+(-2.79 to -2.53)"
+"India","Both","Age-standardized",-4.74,-4.91,-4.56,0,"***","-4.74***
+(-4.91 to -4.56)"
+"Ukraine","Both","Age-standardized",-1.02,-2.33,0.3,0.1383,"","-1.02
+(-2.33 to 0.3)"
+"Brazil","Both","Age-standardized",-3.87,-4.22,-3.51,0,"***","-3.87***
+(-4.22 to -3.51)"
+"Netherlands","Both","Age-standardized",-5.96,-6.17,-5.75,0,"***","-5.96***
+(-6.17 to -5.75)"
+"Germany","Both","Age-standardized",-6.41,-6.94,-5.88,0,"***","-6.41***
+(-6.94 to -5.88)"
+"North Macedonia","Both","Age-standardized",-6.07,-6.36,-5.78,0,"***","-6.07***
+(-6.36 to -5.78)"
+"Nauru","Both","Age-standardized",-2.01,-2.73,-1.29,0,"***","-2.01***
+(-2.73 to -1.29)"
+"United Republic of Tanzania","Both","Age-standardized",-4.28,-4.49,-4.08,0,"***","-4.28***
+(-4.49 to -4.08)"
+"Mali","Both","Age-standardized",-2.81,-3,-2.61,0,"***","-2.81***
+(-3 to -2.61)"
+"Rwanda","Both","Age-standardized",-6.08,-6.49,-5.67,0,"***","-6.08***
+(-6.49 to -5.67)"
+"Qatar","Both","Age-standardized",-7.78,-8.03,-7.52,0,"***","-7.78***
+(-8.03 to -7.52)"
+"Zambia","Both","Age-standardized",-4.46,-4.84,-4.07,0,"***","-4.46***
+(-4.84 to -4.07)"
+"Colombia","Both","Age-standardized",-4.09,-4.58,-3.6,0,"***","-4.09***
+(-4.58 to -3.6)"
+"Iraq","Both","Age-standardized",-4.72,-4.92,-4.52,0,"***","-4.72***
+(-4.92 to -4.52)"
+"Yemen","Both","Age-standardized",-4.39,-4.76,-4.01,0,"***","-4.39***
+(-4.76 to -4.01)"
+"Tajikistan","Both","Age-standardized",-3.28,-3.89,-2.67,0,"***","-3.28***
+(-3.89 to -2.67)"
+"Comoros","Both","Age-standardized",-3.88,-4.12,-3.65,0,"***","-3.88***
+(-4.12 to -3.65)"
+"Uganda","Both","Age-standardized",-4.34,-4.68,-4,0,"***","-4.34***
+(-4.68 to -4)"
+"Fiji","Both","Age-standardized",-3.21,-3.35,-3.07,0,"***","-3.21***
+(-3.35 to -3.07)"
+"Costa Rica","Both","Age-standardized",-6.27,-6.61,-5.93,0,"***","-6.27***
+(-6.61 to -5.93)"
+"Slovakia","Both","Age-standardized",-6.07,-6.21,-5.92,0,"***","-6.07***
+(-6.21 to -5.92)"
+"Guinea","Both","Age-standardized",-2.16,-2.35,-1.96,0,"***","-2.16***
+(-2.35 to -1.96)"
+"Thailand","Both","Age-standardized",-4.61,-4.73,-4.49,0,"***","-4.61***
+(-4.73 to -4.49)"
+"Egypt","Both","Age-standardized",-4.41,-4.7,-4.11,0,"***","-4.41***
+(-4.7 to -4.11)"
+"Slovenia","Both","Age-standardized",-6.99,-7.29,-6.69,0,"***","-6.99***
+(-7.29 to -6.69)"
+"Mongolia","Both","Age-standardized",-6.39,-6.7,-6.07,0,"***","-6.39***
+(-6.7 to -6.07)"
+"Gabon","Both","Age-standardized",-3.27,-3.5,-3.03,0,"***","-3.27***
+(-3.5 to -3.03)"
+"San Marino","Both","Age-standardized",-6.08,-6.4,-5.77,0,"***","-6.08***
+(-6.4 to -5.77)"
+"Paraguay","Both","Age-standardized",-2.11,-2.19,-2.02,0,"***","-2.11***
+(-2.19 to -2.02)"
+"Jordan","Both","Age-standardized",-5.78,-5.98,-5.59,0,"***","-5.78***
+(-5.98 to -5.59)"
+"Norway","Both","Age-standardized",-3.53,-3.89,-3.16,0,"***","-3.53***
+(-3.89 to -3.16)"
+"Iran (Islamic Republic of)","Both","Age-standardized",-4.61,-4.97,-4.24,0,"***","-4.61***
+(-4.97 to -4.24)"
+"Ecuador","Both","Age-standardized",-7.35,-7.89,-6.81,0,"***","-7.35***
+(-7.89 to -6.81)"
+"Saudi Arabia","Both","Age-standardized",-5.42,-5.68,-5.16,0,"***","-5.42***
+(-5.68 to -5.16)"
+"Sudan","Both","Age-standardized",-4.95,-5.09,-4.81,0,"***","-4.95***
+(-5.09 to -4.81)"
+"Kiribati","Both","Age-standardized",-2.65,-2.79,-2.5,0,"***","-2.65***
+(-2.79 to -2.5)"
+"El Salvador","Both","Age-standardized",-5.43,-6.01,-4.84,0,"***","-5.43***
+(-6.01 to -4.84)"
+"Turkmenistan","Both","Age-standardized",-3.18,-4,-2.36,0,"***","-3.18***
+(-4 to -2.36)"
+"Kuwait","Both","Age-standardized",-4.95,-5.39,-4.51,0,"***","-4.95***
+(-5.39 to -4.51)"
+"Tuvalu","Both","Age-standardized",-3.05,-3.32,-2.78,0,"***","-3.05***
+(-3.32 to -2.78)"
+"Djibouti","Both","Age-standardized",-3.21,-3.51,-2.91,0,"***","-3.21***
+(-3.51 to -2.91)"
+"Botswana","Both","Age-standardized",-4.89,-5.28,-4.51,0,"***","-4.89***
+(-5.28 to -4.51)"
+"Portugal","Both","Age-standardized",-5.44,-5.73,-5.16,0,"***","-5.44***
+(-5.73 to -5.16)"
+"Uzbekistan","Both","Age-standardized",-3.82,-4.8,-2.84,0,"***","-3.82***
+(-4.8 to -2.84)"
+"United States Virgin Islands","Both","Age-standardized",-6.43,-6.68,-6.17,0,"***","-6.43***
+(-6.68 to -6.17)"
+"Lesotho","Both","Age-standardized",-0.97,-1.45,-0.49,4e-04,"***","-0.97***
+(-1.45 to -0.49)"
+"East Asia","Both","Age-standardized",-7.83,-8.04,-7.62,0,"***","-7.83***
+(-8.04 to -7.62)"
+"Southeast Asia","Both","Age-standardized",-4.54,-4.69,-4.38,0,"***","-4.54***
+(-4.69 to -4.38)"
+"Central Europe","Both","Age-standardized",-5.45,-5.77,-5.14,0,"***","-5.45***
+(-5.77 to -5.14)"
+"Andean Latin America","Both","Age-standardized",-6.27,-6.73,-5.81,0,"***","-6.27***
+(-6.73 to -5.81)"
+"North Africa and Middle East","Both","Age-standardized",-5.17,-5.27,-5.06,0,"***","-5.17***
+(-5.27 to -5.06)"
+"Australasia","Both","Age-standardized",-4.97,-5.25,-4.7,0,"***","-4.97***
+(-5.25 to -4.7)"
+"High-income Asia Pacific","Both","Age-standardized",-6.17,-6.34,-6,0,"***","-6.17***
+(-6.34 to -6)"
+"Western Sub-Saharan Africa","Both","Age-standardized",-3.65,-3.85,-3.46,0,"***","-3.65***
+(-3.85 to -3.46)"
+"Eastern Sub-Saharan Africa","Both","Age-standardized",-4.11,-4.31,-3.9,0,"***","-4.11***
+(-4.31 to -3.9)"
+"Central Asia","Both","Age-standardized",-4.77,-5.69,-3.83,0,"***","-4.77***
+(-5.69 to -3.83)"
+"Central Latin America","Both","Age-standardized",-5.39,-5.89,-4.9,0,"***","-5.39***
+(-5.89 to -4.9)"
+"Southern Sub-Saharan Africa","Both","Age-standardized",-0.77,-1.36,-0.18,0.0164,"*","-0.77*
+(-1.36 to -0.18)"
+"Western Europe","Both","Age-standardized",-5.87,-6.04,-5.7,0,"***","-5.87***
+(-6.04 to -5.7)"
+"East Asia & Pacific - WB","Both","Age-standardized",-5.21,-5.3,-5.11,0,"***","-5.21***
+(-5.3 to -5.11)"
+"World Bank High Income","Both","Age-standardized",-5.02,-5.58,-4.45,0,"***","-5.02***
+(-5.58 to -4.45)"
+"Southern Latin America","Both","Age-standardized",-3.97,-4.29,-3.65,0,"***","-3.97***
+(-4.29 to -3.65)"
+"Oceania","Both","Age-standardized",-2.04,-2.1,-1.98,0,"***","-2.04***
+(-2.1 to -1.98)"
+"High-income North America","Both","Age-standardized",-4.76,-5.46,-4.05,0,"***","-4.76***
+(-5.46 to -4.05)"
+"World Bank Upper Middle Income","Both","Age-standardized",-5.15,-5.26,-5.03,0,"***","-5.15***
+(-5.26 to -5.03)"
+"Tropical Latin America","Both","Age-standardized",-3.8,-4.14,-3.47,0,"***","-3.8***
+(-4.14 to -3.47)"
+"Commonwealth High Income","Both","Age-standardized",-4.43,-4.55,-4.31,0,"***","-4.43***
+(-4.55 to -4.31)"
+"World Bank Lower Middle Income","Both","Age-standardized",-4.56,-4.72,-4.39,0,"***","-4.56***
+(-4.72 to -4.39)"
+"Central Sub-Saharan Africa","Both","Age-standardized",-2.24,-2.54,-1.94,0,"***","-2.24***
+(-2.54 to -1.94)"
+"Commonwealth Middle Income","Both","Age-standardized",-4.56,-4.74,-4.38,0,"***","-4.56***
+(-4.74 to -4.38)"
+"Europe & Central Asia - WB","Both","Age-standardized",-4.45,-5.3,-3.59,0,"***","-4.45***
+(-5.3 to -3.59)"
+"World Bank Low Income","Both","Age-standardized",-3.18,-3.37,-2.99,0,"***","-3.18***
+(-3.37 to -2.99)"
+"Latin America & Caribbean - WB","Both","Age-standardized",-4.45,-4.82,-4.08,0,"***","-4.45***
+(-4.82 to -4.08)"
+"Central Africa","Both","Age-standardized",-1.99,-2.27,-1.71,0,"***","-1.99***
+(-2.27 to -1.71)"
+"Eastern Europe","Both","Age-standardized",-3.31,-4.65,-1.95,0,"***","-3.31***
+(-4.65 to -1.95)"
+"Commonwealth Low Income","Both","Age-standardized",-3.91,-4.13,-3.69,0,"***","-3.91***
+(-4.13 to -3.69)"
+"Caribbean","Both","Age-standardized",-2.41,-2.66,-2.15,0,"***","-2.41***
+(-2.66 to -2.15)"
+"South Asia - WB","Both","Age-standardized",-4.75,-4.92,-4.58,0,"***","-4.75***
+(-4.92 to -4.58)"
+"Northern Africa","Both","Age-standardized",-4.68,-4.78,-4.58,0,"***","-4.68***
+(-4.78 to -4.58)"
+"Eastern Africa","Both","Age-standardized",-4.27,-4.47,-4.08,0,"***","-4.27***
+(-4.47 to -4.08)"
+"Southern Africa","Both","Age-standardized",-2.35,-2.74,-1.97,0,"***","-2.35***
+(-2.74 to -1.97)"
+"Sub-Saharan Africa - WB","Both","Age-standardized",-3.3,-3.52,-3.08,0,"***","-3.3***
+(-3.52 to -3.08)"
+"Western Africa","Both","Age-standardized",-3.78,-3.99,-3.58,0,"***","-3.78***
+(-3.99 to -3.58)"
+"South Asia","Both","Age-standardized",-4.76,-4.93,-4.59,0,"***","-4.76***
+(-4.93 to -4.59)"
+"Middle East & North Africa - WB","Both","Age-standardized",-4.94,-5.03,-4.85,0,"***","-4.94***
+(-5.03 to -4.85)"
+"North America","Both","Age-standardized",-4.76,-5.46,-4.05,0,"***","-4.76***
+(-5.46 to -4.05)"
+"Low-middle SDI","Both","Age-standardized",-4.48,-4.66,-4.3,0,"***","-4.48***
+(-4.66 to -4.3)"
+"Global","Both","Age-standardized",-4,-4.14,-3.86,0,"***","-4***
+(-4.14 to -3.86)"
+"High-middle SDI","Both","Age-standardized",-4.71,-4.79,-4.64,0,"***","-4.71***
+(-4.79 to -4.64)"
+"Low SDI","Both","Age-standardized",-3.93,-4.1,-3.76,0,"***","-3.93***
+(-4.1 to -3.76)"
+"Middle SDI","Both","Age-standardized",-4.47,-4.63,-4.31,0,"***","-4.47***
+(-4.63 to -4.31)"

@@ -1,0 +1,43 @@
+"filename","measure","location","sex","age","cause","rei","metric","year","val","upper","lower"
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.74491579984,1.46095124435,0.08496934546
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","High fasting plasma glucose","Rate",2021,1.68226223313,3.19774540545,0.19105379233
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Metabolic risks","Rate",1990,0.75711853438,1.52889330111,0.05459894318
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Metabolic risks","Rate",2021,1.7553007847,3.33538108027,0.18397804784
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Behavioral risks","Rate",1990,0.72053966979,0.79146979485,0.65167578088
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Behavioral risks","Rate",2021,0.91454563558,1.05099150672,0.7964785375
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Smoking","Rate",1990,0.72053966979,0.79146979485,0.65167578088
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Smoking","Rate",2021,0.91454563558,1.05099150672,0.7964785375
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","All risk factors","Rate",1990,1.34354279189,1.96920231894,0.75618824754
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","All risk factors","Rate",2021,2.42870727739,3.7910659133,1.07885877835
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Tobacco","Rate",1990,0.72053966979,0.79146979485,0.65167578088
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","Tobacco","Rate",2021,0.91454563558,1.05099150672,0.7964785375
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","High body-mass index","Rate",1990,0.01789852418,0.11111231509,-0.03771094514
+"1","Deaths","Global","Both","All ages","Pancreatic cancer","High body-mass index","Rate",2021,0.11677780135,0.33717195798,-0.03012588708
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Metabolic risks","Rate",1990,0.27628425225,0.55564304161,0.02202516037
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Metabolic risks","Rate",2021,1.07603871176,1.99988509602,0.13612756044
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Behavioral risks","Rate",1990,0.24765987864,0.30434594706,0.19860472136
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Behavioral risks","Rate",2021,0.46668572461,0.54697422315,0.39150996808
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Metabolic risks","Rate",1990,0.09957381978,0.19643636443,0.00713641375999999
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Metabolic risks","Rate",2021,0.32373772865,0.61966888744,0.0321564945
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Behavioral risks","Rate",1990,0.09167734473,0.11353776857,0.06928476164
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Behavioral risks","Rate",2021,0.13385826547,0.15646902954,0.11253446585
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Tobacco","Rate",1990,0.09167734473,0.11353776857,0.06928476164
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Tobacco","Rate",2021,0.13385826547,0.15646902954,0.11253446585
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Smoking","Rate",1990,0.09167734473,0.11353776857,0.06928476164
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","Smoking","Rate",2021,0.13385826547,0.15646902954,0.11253446585
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Tobacco","Rate",1990,0.24765987864,0.30434594706,0.19860472136
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Tobacco","Rate",2021,0.46668572461,0.54697422315,0.39150996808
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Smoking","Rate",1990,0.24765987864,0.30434594706,0.19860472136
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","Smoking","Rate",2021,0.46668572461,0.54697422315,0.39150996808
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.26099330669,0.52465147592,0.02763416296
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","High fasting plasma glucose","Rate",2021,0.97919575849,1.85203710898,0.11168274357
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","All risk factors","Rate",1990,0.17420556183,0.26481839944,0.08842697326
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","All risk factors","Rate",2021,0.42043781826,0.68669200245,0.1597163385
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.10369575461,0.20184006029,0.01150879207
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","High fasting plasma glucose","Rate",2021,0.32512214434,0.61725680726,0.03567904613
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","High body-mass index","Rate",1990,0.02017039062,0.06601456111,-0.00960298998
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","High body-mass index","Rate",2021,0.15441415806,0.35227432014,0.00085038068
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","High body-mass index","Rate",1990,-0.0051387987,-0.0002222422,-0.00974307250999999
+"1","Deaths","South Asia","Both","All ages","Pancreatic cancer","High body-mass index","Rate",2021,-0.00131469383,0.01566164807,-0.01143594047
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","All risk factors","Rate",1990,0.48017890502,0.73888306682,0.25400465644
+"1","Deaths","North Africa and Middle East","Both","All ages","Pancreatic cancer","All risk factors","Rate",2021,1.39061534511,2.19801581637,0.574440447

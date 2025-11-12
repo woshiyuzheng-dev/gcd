@@ -1,0 +1,225 @@
+"V1","filename","measure","location","sex","age","cause","metric","year","val","upper","lower"
+691,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1992,2.2593838730845,2.84128146596955,1.38191864271059
+709,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1992,1.80648440185019,2.08010891547459,1.42933627054375
+733,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1992,2.113371088418,2.40467012802006,1.78160637381355
+757,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1992,2.23444602505217,2.48989323431144,1.76866345039776
+781,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1992,4.66208850628247,5.26334423765983,3.84724949443366
+790,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1992,2.05688383858719,2.23887739273143,1.70741555309351
+814,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1992,13.5943900665547,16.4764504858528,10.677236373919
+2164,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1990,2.2870273735731,2.87961914014225,1.39605607811261
+2182,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1990,1.84011005061802,2.13152674675506,1.45266721641115
+2206,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1990,2.09569048493375,2.39429013168446,1.75717087684669
+2230,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1990,2.27366323720662,2.52919463301493,1.8326132680713
+2254,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1990,4.59025543381508,5.16683044019585,3.82051310840731
+2263,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1990,2.06886691290869,2.25443773363627,1.70181785820566
+2287,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1990,13.0306566769368,15.8568243957055,10.1053094473998
+9030,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1991,2.26891723011247,2.85665835713903,1.39764028013355
+9048,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1991,1.81337076433222,2.09104308209609,1.42787277364374
+9072,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1991,2.10873604261348,2.39135705366707,1.75916877535403
+9096,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1991,2.24942647564989,2.49623566075527,1.79640920556782
+9120,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1991,4.6100445082773,5.18580697591257,3.79497546130286
+9129,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1991,2.05609304339382,2.24433666451229,1.70312156270242
+9153,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1991,13.4134607724737,16.3272209682006,10.4947128584274
+24230,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1994,2.20789465032049,2.7755203622696,1.36262355432836
+24248,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1994,1.83058108931313,2.08849320093538,1.43771152758931
+24272,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1994,2.09508973186686,2.39090881553869,1.77601231154236
+24296,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1994,2.25979095497037,2.51717690683859,1.80711969890246
+24320,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1994,4.80319546688693,5.3879033387783,3.88927170922962
+24329,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1994,2.0563972237737,2.24005118866347,1.68784629169491
+24353,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1994,13.7809973210402,16.5906750958893,10.8485377904732
+48586,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1997,2.12660300578723,2.63707435527458,1.34988783297982
+48604,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1997,1.86716037379099,2.12123009352064,1.4557468768159
+48628,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1997,2.04087512819426,2.28378771516732,1.6835337140757
+48652,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1997,2.21896678754751,2.43612276082509,1.79479615112574
+48676,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1997,4.75751317275411,5.26587665486467,3.84892163435052
+48685,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1997,2.02522935960494,2.20275403141175,1.66389784799993
+48709,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1997,14.5143047787175,17.3101903845754,11.4304652364198
+53126,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1995,2.18719771406872,2.75578312488318,1.33881139522814
+53144,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1995,1.82767014042136,2.08957768759429,1.43743017360079
+53168,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1995,2.07624349070706,2.36150883868214,1.75759031777672
+53192,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1995,2.25910490043437,2.49137872762625,1.81202905476717
+53216,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1995,4.87961991078563,5.47983851432149,3.92166032098323
+53225,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1995,2.05996229437553,2.23846841185846,1.68992160262422
+53249,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1995,14.184451739656,17.0355071569979,11.1878503295305
+65654,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1998,2.08336148890634,2.56580487725205,1.32418714558053
+65672,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1998,1.83724269773062,2.07700785719149,1.42777262904842
+65696,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1998,1.99343042783409,2.22486270901474,1.65398312386102
+65720,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1998,2.20395798397912,2.41433325156779,1.76988528146035
+65744,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1998,4.72001397709038,5.23117867626769,3.8514756171351
+65753,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1998,2.00165201694211,2.17287116784269,1.64090478644886
+65777,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1998,14.4168897454433,17.0520546456385,11.2859571817013
+76835,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1999,2.04527543107321,2.48782374083739,1.31254775445958
+76853,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1999,1.8533765149249,2.11519152641364,1.4526425319879
+76877,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1999,1.97128867039618,2.20625872201808,1.63973824369862
+76901,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1999,2.18709624059189,2.40914402170045,1.74759664510437
+76925,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1999,4.73237585213604,5.2257682495042,3.8611655905523
+76934,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1999,1.9931143966656,2.15250294839088,1.64560552481903
+76958,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1999,14.5638723214803,17.1524793200481,11.3564985847845
+85337,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2000,2.01874120149879,2.44333427666702,1.30212156969722
+85355,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2000,1.84772793793137,2.10409107652189,1.45994284015387
+85379,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2000,1.9717647352516,2.19929103479739,1.63875516983886
+85403,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2000,2.17675358163329,2.40432504451937,1.7277001333906
+85427,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2000,4.70544850772056,5.15019370660777,3.85347106278959
+85436,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2000,1.979326826291,2.13996813022338,1.61687242881622
+85460,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2000,14.7850730688723,17.4296402175888,11.4659933930684
+95810,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2001,1.98716677679536,2.41609364325373,1.29921775750231
+95828,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2001,1.82560335974703,2.07140235399046,1.43764581696182
+95852,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2001,1.98286116623306,2.22903610087559,1.62422901829258
+95876,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2001,2.16848829622135,2.38014292475481,1.72553340398768
+95900,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2001,4.67406018891131,5.12015567734996,3.82470689784476
+95909,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2001,1.97008608889487,2.13683098281004,1.60341156523762
+95933,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2001,15.2552042661925,17.9011697859809,11.8179154145034
+124733,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2003,1.90929568530686,2.30119472221433,1.27493805249781
+124751,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2003,1.80989696053157,2.06349215635068,1.43930460546602
+124775,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2003,1.98283292448906,2.21862238241642,1.61264371804673
+124799,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2003,2.10524238713889,2.29933613207459,1.66542040005124
+124823,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2003,4.69310912497141,5.10904998545113,3.85450500478244
+124832,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2003,1.9706370710766,2.1271561088075,1.60615799946727
+124856,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2003,16.2329995596121,19.1255490234684,12.5485573125112
+172641,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2004,1.87165984329189,2.24975630537542,1.255802292772
+172659,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2004,1.7725293216071,2.02982144227443,1.41293779797945
+172683,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2004,1.94538871183639,2.18452098945214,1.59526378698873
+172707,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2004,2.09714063635327,2.28886035556888,1.65778418182687
+172731,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2004,4.7144667443576,5.15936242826832,3.84938528401706
+172740,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2004,1.95455973479715,2.11318231433528,1.59716191687211
+172764,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2004,16.6230349269117,19.6363674923934,12.845969459547
+212329,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2005,1.84970435753586,2.22697482120627,1.25385030953073
+212347,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2005,1.75922600287123,2.00805933119566,1.41345973915788
+212371,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2005,1.91929317566843,2.16532910380769,1.56125531937653
+212395,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2005,2.04191545817877,2.22288596540954,1.62552495496098
+212419,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2005,4.67267365023783,5.10790638932742,3.82275642493196
+212428,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2005,1.9379312304659,2.09739292016218,1.5757020497603
+212452,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2005,16.3241156833583,18.9811555029352,12.5744531162793
+259018,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2006,1.82184237481911,2.17952987161937,1.25553033753958
+259036,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2006,1.70524620467854,1.943432140065,1.37645047035448
+259060,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2006,1.8593226886585,2.08677525789143,1.52402571941384
+259084,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2006,1.99450535129079,2.17560722019711,1.58991107207017
+259108,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2006,4.62284540977048,5.03391184710098,3.77238975344297
+259117,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2006,1.89712955465175,2.04807751028944,1.54615309377236
+259141,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2006,16.7939360621347,19.6056693076302,12.9683101079762
+283743,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2007,1.79299147883208,2.15178256707814,1.26093412847861
+283761,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2007,1.69872351689117,1.94927762269052,1.37443167192915
+283785,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2007,1.84130191734991,2.06627146297737,1.48687089480332
+283809,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2007,1.96664631119017,2.14260828176316,1.56585248923125
+283833,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2007,4.63519837472269,5.04997955212871,3.797118927651
+283842,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2007,1.87829134900959,2.03035766053716,1.54761890302609
+283866,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2007,16.9508514928764,19.5299656193036,13.0217228629169
+308923,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2008,1.77122626324739,2.10678391529492,1.25654384354934
+308941,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2008,1.66598976650295,1.92192172279186,1.35785162246117
+308965,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2008,1.80611791870213,2.00608726191011,1.44797065027037
+308989,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2008,1.94595386827615,2.12080743213764,1.56950824292044
+309013,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2008,4.66997859772158,5.05708969417827,3.83698978461309
+309022,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2008,1.85875766262462,2.00804436047595,1.54199440683385
+309046,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2008,17.4097591086859,20.0084857394955,13.4234074258395
+338785,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2009,1.73494639448942,2.06682970034697,1.24628148982316
+338803,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2009,1.65052346150521,1.92895478304091,1.35389014983931
+338827,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2009,1.79400851858592,1.99255205407305,1.45530501596954
+338851,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2009,1.90547046507865,2.07631239657429,1.52683681576754
+338875,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2009,4.71447342683291,5.12723894162495,3.8399118653756
+338884,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2009,1.84135766355684,1.99893230134027,1.53719791561178
+338908,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2009,17.5833388700271,20.2977696226482,13.5225086924806
+370096,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2010,1.69736550382493,2.02856969734372,1.2179904950524
+370114,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2010,1.65380129635939,1.94729536106627,1.35716848873854
+370138,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2010,1.75814194255209,1.99353220536602,1.42720142688261
+370162,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2010,1.87463017080261,2.0392886448937,1.50837573147066
+370186,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2010,4.76643298799983,5.18619093028902,3.91240152228872
+370195,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2010,1.82336162422745,1.97768621597204,1.52993381357011
+370219,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2010,17.2440723843721,19.8137154994898,13.1970251747012
+409112,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2011,1.67096669636025,1.97517619811795,1.20445870876615
+409130,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2011,1.64684045978955,1.95625536236868,1.37942132449355
+409154,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2011,1.70699348814218,1.92195053771217,1.4054403970854
+409178,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2011,1.85962395947911,2.02659448168582,1.50385962367103
+409202,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2011,4.76024178304545,5.17920476164344,3.92490175625642
+409211,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2011,1.8012615887018,1.96251607638501,1.51415385543276
+409235,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2011,17.0005223045437,19.3073190979231,12.9399643207905
+444400,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2012,1.65244548262525,1.96359610450099,1.19220169873022
+444418,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2012,1.63366751234188,1.94716005531868,1.37629919940431
+444442,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2012,1.72602848331854,1.97016750606703,1.42733274914013
+444466,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2012,1.85299152082589,2.05081019264581,1.49426640791112
+444490,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2012,4.75722185823668,5.21379300588198,3.93360688813125
+444499,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2012,1.7969075134599,1.97411076953623,1.52086343926052
+444523,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2012,17.5101874741803,19.8412631531833,13.3496411031268
+485911,1,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2013,1.66519028434621,1.98535782074257,1.20072993417041
+485929,1,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2013,1.67239252153394,2.00525470824177,1.40856939584257
+485953,1,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2013,1.74275445485788,1.95874287746714,1.42919904407412
+485977,1,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2013,1.87961303528885,2.05172589860966,1.51635934225476
+486001,1,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2013,4.75854154250786,5.16057845693711,3.92845415338436
+486010,1,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2013,1.8147366313025,1.9830255463608,1.53906761462967
+486034,1,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2013,17.7600806519831,20.111517683945,13.5068134357327
+521713,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2014,1.65588423449485,1.97181443867885,1.20851183362103
+521731,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2014,1.66625501237484,1.9654944036496,1.38773878758312
+521755,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2014,1.76565878239433,1.99174438527023,1.4459715035014
+521779,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2014,1.90718539171886,2.06582345622131,1.54337473957075
+521803,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2014,4.78834121200552,5.2015293258715,3.96604114939505
+521812,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2014,1.82235176927784,1.98281398056554,1.55023862925101
+521836,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2014,18.0811123857127,20.5330651653617,13.729029788737
+538631,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2015,1.6411867944499,1.96714199248058,1.19932735522284
+538649,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2015,1.69065039000261,1.98470281238199,1.3956257817426
+538673,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2015,1.77182470612102,1.99751721703857,1.43757133364907
+538697,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2015,1.91716379517765,2.09832960248826,1.54258352905194
+538721,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2015,4.87280956826222,5.27650883426775,4.02222929829446
+538730,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2015,1.83076287758883,1.99710187296362,1.54171010545757
+538754,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2015,18.4877563655658,21.0305364776604,14.1277341424936
+575155,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2016,1.61742021954793,1.96072019059379,1.17067732838646
+575173,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2016,1.71942306085976,2.01052185590791,1.43625747408486
+575197,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2016,1.79329908760544,2.01762843660042,1.45908818691079
+575221,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2016,1.93523388329255,2.12093407355324,1.56902805945289
+575245,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2016,4.8923703021723,5.29377588672625,4.0344540180803
+575254,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2016,1.84144207592189,2.01896170131056,1.57377864813285
+575278,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2016,19.3360944412906,22.0750636793275,14.6528397153285
+603249,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2017,1.58960422649539,1.92151443245805,1.15592778134416
+603267,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2017,1.73255988511643,2.02107380686105,1.42948229505043
+603291,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2017,1.81363913168723,2.01379882402362,1.47415898505058
+603315,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2017,1.95122883922103,2.12707488572918,1.57728416634975
+603339,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2017,4.97023832992164,5.39783536569465,4.09275935068
+603348,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2017,1.84577823916437,2.01659866911216,1.55823179268359
+603372,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2017,20.6840344494708,23.5770614935984,15.7449466910386
+629910,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2018,1.56497179496111,1.88880189527108,1.12431288670566
+629928,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2018,1.64560187974943,1.95517530998393,1.36890807938272
+629952,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2018,1.76702622146706,1.99518927873471,1.45450233698325
+629976,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2018,1.95340242280313,2.13548191418434,1.58256860428713
+630000,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2018,4.98962056891024,5.44563831420227,4.10296299292435
+630009,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2018,1.81421502145223,1.99181724720735,1.53847561383944
+630033,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2018,21.4215673187183,24.4048183096326,16.4008507878734
+644786,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2019,1.5549885390286,1.88158608074163,1.10432003337125
+644804,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2019,1.61599316090353,1.91011629005574,1.3416029153708
+644828,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2019,1.7426900549274,1.945515047523,1.42233744728992
+644852,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2019,1.9459060225056,2.11172605253895,1.57596172527141
+644876,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2019,5.01057842028581,5.44662350247268,4.11482718839765
+644885,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2019,1.80181551594174,1.96356868511798,1.52323149981498
+644909,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2019,21.704119757659,24.9618892154609,16.3384322924647
+661467,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2021,1.39025996962615,1.74288582134327,0.949209539306037
+661485,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2021,1.59087420534534,1.8814628806424,1.30430781306
+661509,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2021,1.70861262574232,1.91110007763314,1.37362416618401
+661533,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2021,1.92257075950799,2.11011909088831,1.50625474189882
+661557,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2021,4.79739556758729,5.23957277913905,3.94726214402252
+661566,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2021,1.74274019926774,1.91636833108717,1.45720535027047
+661590,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2021,20.1443132285293,23.2960314077767,14.8342143389593
+835631,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1996,2.15883386847917,2.68155728598494,1.35446127764982
+835649,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1996,1.85299209989522,2.11222374509011,1.46216715524754
+835673,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1996,2.0680215900102,2.3342852535555,1.73732287982113
+835697,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1996,2.24056181152585,2.45678563443618,1.82585160726511
+835721,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1996,4.84770334194911,5.39480956285743,3.92430000650297
+835730,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1996,2.0468896217565,2.22127857599855,1.68353387827056
+835754,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1996,14.4136929998371,17.2745524891124,11.403989940829
+841447,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2002,1.94940907070088,2.35441959138251,1.28850611841322
+841465,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2002,1.8057449810818,2.04762753939819,1.42208402768952
+841489,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2002,1.9436284422508,2.16714280277985,1.57455821584953
+841513,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2002,2.14343353358037,2.34871093507684,1.6967545503836
+841537,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2002,4.66696323000492,5.120557890347,3.833386626293
+841546,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2002,1.96011155167319,2.12305837179208,1.5950528851041
+841570,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2002,15.5586093826185,18.1983899777279,12.0223523922409
+845382,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",1993,2.23733089623354,2.82603174874226,1.3729675086278
+845400,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",1993,1.81145671351776,2.05601132992178,1.43546477293815
+845424,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",1993,2.11704962929247,2.40915067304133,1.77709938642844
+845448,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",1993,2.24405416987112,2.49435382972231,1.79130181875905
+845472,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",1993,4.72010179511692,5.30245505456289,3.85020461347143
+845481,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",1993,2.05856060670527,2.23552207689923,1.70946307020016
+845505,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",1993,13.5533025979343,16.3569998218245,10.685287489387
+852089,2,"Deaths","Global","Both","<5 years","Idiopathic epilepsy","Rate",2020,1.44187384910766,1.77715395344025,1.00387410359142
+852107,2,"Deaths","Global","Both","15-19 years","Idiopathic epilepsy","Rate",2020,1.61611338950942,1.92819777136475,1.32589075199809
+852131,2,"Deaths","Global","Both","35-39 years","Idiopathic epilepsy","Rate",2020,1.7200412099597,1.90746761565703,1.38819160249274
+852155,2,"Deaths","Global","Both","55-59 years","Idiopathic epilepsy","Rate",2020,1.95073555514909,2.12679145311559,1.5224412717232
+852179,2,"Deaths","Global","Both","75-79 years","Idiopathic epilepsy","Rate",2020,4.94691445513263,5.3941523134722,4.04085925751585
+852188,2,"Deaths","Global","Both","Age-standardized","Idiopathic epilepsy","Rate",2020,1.77307968058722,1.94331265341611,1.48209460541591
+852212,2,"Deaths","Global","Both","95+ years","Idiopathic epilepsy","Rate",2020,21.3413883955873,24.7838729475505,15.7005975456556

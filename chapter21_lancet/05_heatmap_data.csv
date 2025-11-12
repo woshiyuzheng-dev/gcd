@@ -1,0 +1,31 @@
+"rei","sex","rank"
+"High systolic blood pressure","Both",1
+"Smoking","Both",2
+"High body-mass index","Both",3
+"High fasting plasma glucose","Both",4
+"High LDL cholesterol","Both",5
+"Diet low in whole grains","Both",6
+"Alcohol use","Both",7
+"Air pollution","Both",8
+"Kidney dysfunction","Both",9
+"Impaired kidney function","Both",10
+"High systolic blood pressure","Female",2
+"Smoking","Female",3
+"High body-mass index","Female",4
+"High fasting plasma glucose","Female",5
+"High LDL cholesterol","Female",1
+"Diet low in whole grains","Female",7
+"Alcohol use","Female",6
+"Air pollution","Female",8
+"Kidney dysfunction","Female",9
+"Impaired kidney function","Female",10
+"High systolic blood pressure","Male",1
+"Smoking","Male",2
+"High body-mass index","Male",3
+"High fasting plasma glucose","Male",4
+"High LDL cholesterol","Male",5
+"Diet low in whole grains","Male",6
+"Alcohol use","Male",7
+"Air pollution","Male",8
+"Kidney dysfunction","Male",9
+"Impaired kidney function","Male",10

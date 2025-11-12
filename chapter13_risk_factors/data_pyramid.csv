@@ -1,0 +1,113 @@
+"filename","measure","location","sex","age","cause","rei","metric","year","val","upper","lower"
+"1","Deaths","Global","Male","30 to 34","Pancreatic cancer","Smoking","Rate",1990,0.09729099775,0.10794519928,0.08681737897
+"1","Deaths","Global","Female","30 to 34","Pancreatic cancer","Smoking","Rate",1990,0.01340140708,0.01485672976,0.01204335741
+"1","Deaths","Global","Male","30 to 34","Pancreatic cancer","Smoking","Rate",2021,0.0694156671,0.08162676103,0.05905653043
+"1","Deaths","Global","Female","30 to 34","Pancreatic cancer","Smoking","Rate",2021,0.00630979463,0.00709256753,0.00555359716
+"1","Deaths","Global","Male","35 to 39","Pancreatic cancer","Smoking","Rate",1990,0.29069126967,0.32532281475,0.25690187242
+"1","Deaths","Global","Female","35 to 39","Pancreatic cancer","Smoking","Rate",1990,0.03704873697,0.04064410753,0.03319586777
+"1","Deaths","Global","Male","35 to 39","Pancreatic cancer","Smoking","Rate",2021,0.19102011758,0.22485782117,0.16311784946
+"1","Deaths","Global","Female","35 to 39","Pancreatic cancer","Smoking","Rate",2021,0.01851025838,0.02055555905,0.0164983629
+"1","Deaths","Global","Male","40 to 44","Pancreatic cancer","Smoking","Rate",1990,0.6749418863,0.74971716479,0.60382792117
+"1","Deaths","Global","Female","40 to 44","Pancreatic cancer","Smoking","Rate",1990,0.09988240419,0.11034713049,0.09008060811
+"1","Deaths","Global","Male","40 to 44","Pancreatic cancer","Smoking","Rate",2021,0.44925143978,0.52314512383,0.38724012808
+"1","Deaths","Global","Female","40 to 44","Pancreatic cancer","Smoking","Rate",2021,0.05330848742,0.05975876652,0.04727860775
+"1","Deaths","Global","Male","45 to 49","Pancreatic cancer","Smoking","Rate",1990,1.29066772085,1.42228883999,1.16324319695
+"1","Deaths","Global","Female","45 to 49","Pancreatic cancer","Smoking","Rate",1990,0.24017334193,0.263092342,0.21688823489
+"1","Deaths","Global","Male","45 to 49","Pancreatic cancer","Smoking","Rate",2021,0.94442599656,1.09981729305,0.81074520443
+"1","Deaths","Global","Female","45 to 49","Pancreatic cancer","Smoking","Rate",2021,0.13692734253,0.1562446208,0.12103914053
+"1","Deaths","Global","Male","50 to 54","Pancreatic cancer","Smoking","Rate",1990,2.61564049523,2.87800849936,2.35662785441
+"1","Deaths","Global","Female","50 to 54","Pancreatic cancer","Smoking","Rate",1990,0.47641297461,0.53233948196,0.42577157185
+"1","Deaths","Global","Male","50 to 54","Pancreatic cancer","Smoking","Rate",2021,1.97817997784,2.31969489502,1.68877282819
+"1","Deaths","Global","Female","50 to 54","Pancreatic cancer","Smoking","Rate",2021,0.32143402266,0.36948068731,0.2834859478
+"1","Deaths","Global","Male","55 to 59","Pancreatic cancer","Smoking","Rate",1990,4.24148391736,4.6790849918,3.8387824068
+"1","Deaths","Global","Female","55 to 59","Pancreatic cancer","Smoking","Rate",1990,0.88802012855,0.99149904272,0.78974460733
+"1","Deaths","Global","Male","55 to 59","Pancreatic cancer","Smoking","Rate",2021,3.46294257556,4.03554333203,2.98374912347
+"1","Deaths","Global","Female","55 to 59","Pancreatic cancer","Smoking","Rate",2021,0.69200485524,0.78731824603,0.60811274794
+"1","Deaths","Global","Male","60 to 64","Pancreatic cancer","Smoking","Rate",1990,6.28666537872,6.92094998063,5.71457524087
+"1","Deaths","Global","Female","60 to 64","Pancreatic cancer","Smoking","Rate",1990,1.53505240812,1.71749701385,1.36944140662
+"1","Deaths","Global","Male","60 to 64","Pancreatic cancer","Smoking","Rate",2021,5.24844819761,6.05003510003,4.53075486253
+"1","Deaths","Global","Female","60 to 64","Pancreatic cancer","Smoking","Rate",2021,1.18049022343,1.35068042524,1.0337226442
+"1","Deaths","Global","Male","65 to 69","Pancreatic cancer","Smoking","Rate",1990,8.63058640689,9.42963622175,7.77256897929
+"1","Deaths","Global","Female","65 to 69","Pancreatic cancer","Smoking","Rate",1990,2.34285093758,2.60511456899,2.09946999646
+"1","Deaths","Global","Male","65 to 69","Pancreatic cancer","Smoking","Rate",2021,7.46618208631,8.68151127913,6.36135482537
+"1","Deaths","Global","Female","65 to 69","Pancreatic cancer","Smoking","Rate",2021,1.68197707422,1.97578222806,1.42613196395
+"1","Deaths","Global","Male","70 to 74","Pancreatic cancer","Smoking","Rate",1990,10.42140933632,11.56209241353,9.37478413642
+"1","Deaths","Global","Female","70 to 74","Pancreatic cancer","Smoking","Rate",1990,3.1572431027,3.59085379804,2.76365380617
+"1","Deaths","Global","Male","70 to 74","Pancreatic cancer","Smoking","Rate",2021,9.88763576247,11.59522700942,8.43744195139
+"1","Deaths","Global","Female","70 to 74","Pancreatic cancer","Smoking","Rate",2021,2.3602974322,2.82456567126,1.97083420209
+"1","Deaths","Global","Male","75 to 79","Pancreatic cancer","Smoking","Rate",1990,12.67542151873,14.09700738161,11.32607009526
+"1","Deaths","Global","Female","75 to 79","Pancreatic cancer","Smoking","Rate",1990,3.38922720691,3.90179255354,2.9401774237
+"1","Deaths","Global","Male","75 to 79","Pancreatic cancer","Smoking","Rate",2021,11.14015541542,13.14335383126,9.39232578018
+"1","Deaths","Global","Female","75 to 79","Pancreatic cancer","Smoking","Rate",2021,2.75737333274,3.34997707163,2.23073437923
+"1","Deaths","Global","Male","80 to 84","Pancreatic cancer","Smoking","Rate",1990,12.36582766004,14.15554263957,10.58575067653
+"1","Deaths","Global","Female","80 to 84","Pancreatic cancer","Smoking","Rate",1990,3.77063187187,4.41952799255,3.06036728096
+"1","Deaths","Global","Male","80 to 84","Pancreatic cancer","Smoking","Rate",2021,11.56081670147,13.98189781188,9.557097612
+"1","Deaths","Global","Female","80 to 84","Pancreatic cancer","Smoking","Rate",2021,2.951455075,3.6430814835,2.14625048463
+"1","Deaths","Global","Male","85 to 89","Pancreatic cancer","Smoking","Rate",1990,14.18504841322,16.63309387458,12.04473414785
+"1","Deaths","Global","Female","85 to 89","Pancreatic cancer","Smoking","Rate",1990,4.6877427114,5.63228618821,3.71332463324
+"1","Deaths","Global","Male","85 to 89","Pancreatic cancer","Smoking","Rate",2021,14.66350295591,18.09557889843,11.88954099616
+"1","Deaths","Global","Female","85 to 89","Pancreatic cancer","Smoking","Rate",2021,3.76501999068,4.81969400776,2.60535400705
+"1","Deaths","Global","Male","90 to 94","Pancreatic cancer","Smoking","Rate",1990,14.59821257736,17.57265661157,12.03001940581
+"1","Deaths","Global","Female","90 to 94","Pancreatic cancer","Smoking","Rate",1990,5.89890369746,7.27211915703,4.43143833712
+"1","Deaths","Global","Male","90 to 94","Pancreatic cancer","Smoking","Rate",2021,14.81930912664,18.81210159679,11.40579337571
+"1","Deaths","Global","Female","90 to 94","Pancreatic cancer","Smoking","Rate",2021,4.80733617476,6.41578801271,3.2459719642
+"1","Deaths","Global","Male","95+","Pancreatic cancer","Smoking","Rate",1990,10.33566873159,13.31466110672,7.86936906007
+"1","Deaths","Global","Female","95+","Pancreatic cancer","Smoking","Rate",1990,5.25565422775,6.6901250492,3.75586519421
+"1","Deaths","Global","Male","95+","Pancreatic cancer","Smoking","Rate",2021,10.98232766648,15.64683680509,7.93378116621
+"1","Deaths","Global","Female","95+","Pancreatic cancer","Smoking","Rate",2021,4.7268371572,6.83092301099,2.88182251879
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","45 to 49","Pancreatic cancer","Smoking","Rate",2021,40.7624278431,47.44906815057,35.00463802746
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","45 to 49","Pancreatic cancer","Smoking","Rate",2021,5.91563513161,6.75035900181,5.22434420968
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","50 to 54","Pancreatic cancer","Smoking","Rate",1990,100.44972301578,110.46700919079,90.53517103726
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","50 to 54","Pancreatic cancer","Smoking","Rate",1990,18.2995779823,20.45080177392,16.35586655805
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","50 to 54","Pancreatic cancer","Smoking","Rate",2021,75.99232021741,89.14580088716,64.9123204458
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","50 to 54","Pancreatic cancer","Smoking","Rate",2021,12.35301191944,14.19545529747,10.8974614901
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","55 to 59","Pancreatic cancer","Smoking","Rate",1990,142.9240954017,157.66638582985,129.28370257353
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","55 to 59","Pancreatic cancer","Smoking","Rate",1990,29.90837302246,33.37731228354,26.59578777861
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","55 to 59","Pancreatic cancer","Smoking","Rate",2021,116.86642514259,136.12378940492,100.76679653629
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","55 to 59","Pancreatic cancer","Smoking","Rate",2021,23.33660913535,26.59023007317,20.49535304032
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","60 to 64","Pancreatic cancer","Smoking","Rate",1990,182.92473311148,201.14774269314,166.34049715042
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","60 to 64","Pancreatic cancer","Smoking","Rate",1990,44.55773842571,49.84609924512,39.73997235641
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","60 to 64","Pancreatic cancer","Smoking","Rate",2021,152.61746020804,175.68506981312,131.6650062329
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","60 to 64","Pancreatic cancer","Smoking","Rate",2021,34.32980900477,39.26123490313,30.07619948684
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","65 to 69","Pancreatic cancer","Smoking","Rate",1990,211.73666251957,231.23496227194,190.61065695769
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","65 to 69","Pancreatic cancer","Smoking","Rate",1990,57.33406440554,63.72398048121,51.42383130323
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","65 to 69","Pancreatic cancer","Smoking","Rate",2021,182.99368792834,212.62304329284,155.97300447017
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","65 to 69","Pancreatic cancer","Smoking","Rate",2021,41.20978190155,48.32823718407,34.93061018612
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","70 to 74","Pancreatic cancer","Smoking","Rate",1990,210.3314997491,233.17350278896,188.90269003213
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","70 to 74","Pancreatic cancer","Smoking","Rate",1990,63.58626913334,72.40884273409,55.69837093802
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","70 to 74","Pancreatic cancer","Smoking","Rate",2021,199.40295920992,234.02199480303,170.18102298624
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","70 to 74","Pancreatic cancer","Smoking","Rate",2021,47.50169045056,56.88821906086,39.67306251485
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","75 to 79","Pancreatic cancer","Smoking","Rate",1990,204.571763333,227.19597843355,182.51932281052
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","75 to 79","Pancreatic cancer","Smoking","Rate",1990,54.45259203745,62.68434494433,47.2595503737
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","75 to 79","Pancreatic cancer","Smoking","Rate",2021,179.68964599421,211.99874917616,151.48903245706
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","75 to 79","Pancreatic cancer","Smoking","Rate",2021,44.34231279068,53.84231628988,35.92370265183
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","80 to 84","Pancreatic cancer","Smoking","Rate",1990,157.01942053109,179.64472360094,134.71834671353
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","80 to 84","Pancreatic cancer","Smoking","Rate",1990,47.57917927083,55.8507111856,38.57254615287
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","80 to 84","Pancreatic cancer","Smoking","Rate",2021,146.09274862704,176.49718508143,120.82644926843
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","80 to 84","Pancreatic cancer","Smoking","Rate",2021,37.16808442737,45.81097059943,27.05920069271
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","85 to 89","Pancreatic cancer","Smoking","Rate",1990,143.31803922918,167.80555438605,121.92906627304
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","85 to 89","Pancreatic cancer","Smoking","Rate",1990,47.10188877601,56.5797636865,37.31598908176
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","85 to 89","Pancreatic cancer","Smoking","Rate",2021,147.44955869934,181.15790198309,119.49339077833
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","85 to 89","Pancreatic cancer","Smoking","Rate",2021,37.69801836931,48.28715751428,26.06933224857
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","90 to 94","Pancreatic cancer","Smoking","Rate",1990,127.87093760693,153.98629945931,105.35638577657
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","90 to 94","Pancreatic cancer","Smoking","Rate",1990,51.6251419272,63.6350788352,38.79348571961
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","90 to 94","Pancreatic cancer","Smoking","Rate",2021,129.92952339056,165.26662571713,100.04193421349
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","90 to 94","Pancreatic cancer","Smoking","Rate",2021,42.09558260074,56.22767040243,28.37998371953
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","95+","Pancreatic cancer","Smoking","Rate",1990,85.42789501841,110.01818391633,64.98002424722
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","95+","Pancreatic cancer","Smoking","Rate",1990,43.28260056181,55.18650384454,30.95996051648
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","95+","Pancreatic cancer","Smoking","Rate",2021,89.28304796024,127.17689544983,64.59308612694
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","95+","Pancreatic cancer","Smoking","Rate",2021,38.52881115633,55.56900462151,23.51591979083
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","30 to 34","Pancreatic cancer","Smoking","Rate",1990,5.63748838199,6.25364863142,5.03148418493
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","30 to 34","Pancreatic cancer","Smoking","Rate",1990,0.77759063365,0.86322166089,0.69815644634
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","30 to 34","Pancreatic cancer","Smoking","Rate",2021,4.02354168517,4.73352156961,3.42479625171
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","30 to 34","Pancreatic cancer","Smoking","Rate",2021,0.36626436567,0.41160955528,0.32239510967
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","35 to 39","Pancreatic cancer","Smoking","Rate",1990,15.42347206964,17.24167623945,13.62604583606
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","35 to 39","Pancreatic cancer","Smoking","Rate",1990,1.9658883547,2.15612559369,1.75863216871
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","35 to 39","Pancreatic cancer","Smoking","Rate",2021,10.14566227994,11.94636891629,8.66094021456
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","35 to 39","Pancreatic cancer","Smoking","Rate",2021,0.98322005603,1.09226274417,0.87560682748
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","40 to 44","Pancreatic cancer","Smoking","Rate",1990,32.50066945291,36.14565867946,29.08445437269
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","40 to 44","Pancreatic cancer","Smoking","Rate",1990,4.80761311097,5.30641815352,4.33753948011
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","40 to 44","Pancreatic cancer","Smoking","Rate",2021,21.60892759128,25.1315577491,18.62668943043
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","40 to 44","Pancreatic cancer","Smoking","Rate",2021,2.5662806835,2.87839962307,2.2764611516
+"3","DALYs (Disability-Adjusted Life Years)","Global","Male","45 to 49","Pancreatic cancer","Smoking","Rate",1990,55.66487412261,61.29081494803,50.1716952454
+"3","DALYs (Disability-Adjusted Life Years)","Global","Female","45 to 49","Pancreatic cancer","Smoking","Rate",1990,10.36720097973,11.35791632186,9.36308323729

@@ -1,0 +1,4 @@
+"Test","Statistic","P_value","Result"
+"ADF Test (Stationarity)",-2.9407,0.2099,"Series is non-stationary (p ≥ 0.05)"
+"Ljung-Box Test (Independence)",6.559,0.3636,"No significant autocorrelation (p > 0.05)"
+"Shapiro-Wilk Test (Normality)",0.9773,0.7179,"Residuals are normally distributed (p > 0.05)"

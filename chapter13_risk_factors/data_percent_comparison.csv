@@ -1,0 +1,81 @@
+"filename","measure","location","sex","age","cause","rei","metric","year","val","upper","lower","risk","percentage"
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,1.08218704077,2.11287323067,0.12321739718,"High fasting plasma glucose",25.9804907161133
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,1.56538657497,2.98185732831,0.17745554182,"High fasting plasma glucose",31.5028721723932
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,1.09901116588,2.21804984773,0.08088944814,"Metabolic risks",26.3843941170597
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,1.63174998203,3.09856522781,0.17068087412,"Metabolic risks",32.8384131582201
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,0.97972778384,1.08091695658,0.88546698973,"Smoking",23.5207109616305
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,0.83277635665,0.95876980347,0.72546242919,"Smoking",16.759340811543
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,0.97972778384,1.08091695658,0.88546698973,"Tobacco",23.5207109616305
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,0.83277635665,0.95876980347,0.72546242919,"Tobacco",16.759340811543
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,0.02472959966,0.15728528799,-0.05415144465,"High body-mass index",0.593693243565997
+"1","Deaths","Global","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,0.10633884372,0.30849845351,-0.02849706201,"High body-mass index",2.14003304630069
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,0.628575276,1.25284897466,0.05127440047,"Metabolic risks",27.7627040098569
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,1.63727451296,3.03927801907,0.20617609863,"Metabolic risks",35.1988719575551
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,0.21074439752,0.41630102925,0.01595060662,"Metabolic risks",27.2076475559948
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,0.43021380615,0.82224067016,0.04261976586,"Metabolic risks",35.7916763304149
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.59929737131,1.19175485721,0.06395114485,"High fasting plasma glucose",26.4695672401293
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,1.50449308116,2.8511200241,0.17046743386,"High fasting plasma glucose",32.3442763602539
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,0.17763295437,0.22179893764,0.13402285981,"Smoking",22.9328744854079
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,0.17086116302,0.19914233472,0.14386514487,"Smoking",14.2148098383386
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,0.17763295437,0.22179893764,0.13402285981,"Tobacco",22.9328744854079
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,0.17086116302,0.19914233472,0.14386514487,"Tobacco",14.2148098383386
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,0.49843796488,0.60841149399,0.39815563583,"Tobacco",22.0148424772579
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,0.64624657596,0.76044367397,0.54309701174,"Tobacco",13.8933027419454
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,0.49843796488,0.60841149399,0.39815563583,"Smoking",22.0148424772579
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,0.64624657596,0.76044367397,0.54309701174,"Smoking",13.8933027419454
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.21885092211,0.42560755712,0.02431862475,"High fasting plasma glucose",28.2542208767769
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,0.43244359989,0.81835084981,0.04717082153,"High fasting plasma glucose",35.9771842213398
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,0.03935104297,0.13280880212,-0.02140891215,"High body-mass index",1.73804379549804
+"1","Deaths","North Africa and Middle East","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,0.21723636709,0.4981484244,3.551401e-05,"High body-mass index",4.67024619830026
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,-0.01028342966,-0.00047141139,-0.01949955293,"High body-mass index",-1.32761740358764
+"1","Deaths","South Asia","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,-0.00238572046,0.01935382647,-0.01547576049,"High body-mass index",-0.198480228431806
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,0.1372507628,0.1688779973,0.10212285904,"Smoking",19.0783964763281
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,0.13230254051,0.16305782781,0.10628075141,"Smoking",12.4592824244168
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,1.26444810884,2.58793712804,0.08445063618,"Metabolic risks",25.1314850676999
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,1.91765286985,3.67127119176,0.19636497165,"Metabolic risks",30.3496167078702
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,0.26490514428,0.5294248658,0.01560491143,"Metabolic risks",26.3409711214193
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,0.65279588554,1.29952303237,0.06621480054,"Metabolic risks",34.5375161276316
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,0.1372507628,0.1688779973,0.10212285904,"Tobacco",19.0783964763281
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,0.13230254051,0.16305782781,0.10628075141,"Tobacco",12.4592824244168
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,-0.01360334154,0.00120183364,-0.02760934532,"High body-mass index",-1.89091803942254
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,-0.00213606574,0.02421372108,-0.01872719814,"High body-mass index",-0.201158996865743
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,1.78370650783,3.50294332755,0.15724463446,"Metabolic risks",26.2971056565243
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,2.79701636,5.14502769696,0.31238899083,"Metabolic risks",33.9312849983915
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,0.22361220824,0.45930831845,0.01226514945,"Metabolic risks",31.0829774546795
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,0.39868033123,0.79705668378,0.03056947118,"Metabolic risks",37.5447880645887
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,1.23466250527,2.4519921115,0.13925716931,"High fasting plasma glucose",24.5394825599508
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,1.81476166674,3.47066961913,0.20428044958,"High fasting plasma glucose",28.7212153292389
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,1.24625580466,1.36710649195,1.12867962673,"Smoking",24.7699046931078
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,1.21689566733,1.42210002724,1.0460859441,"Smoking",19.2591253910424
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,1.59689032128,1.75810408961,1.44181029012,"Smoking",23.5428829329491
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,1.28157142773,1.46847157919,1.10789900003,"Smoking",15.5470543476199
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,1.72745238519,3.29886901681,0.1990991257,"High fasting plasma glucose",25.4677536301762
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,2.66317572958,4.95883315586,0.3105624901,"High fasting plasma glucose",32.3076317941802
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,0.23868662108,0.2869399925,0.19142580117,"Smoking",23.7339195885601
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,0.28647418554,0.32339432634,0.25305779934,"Smoking",15.1565091361649
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",1990,0.61727235354,0.70909694838,0.54079435936,"Smoking",24.0958779549353
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","Smoking","Rate",2021,0.60256154095,0.71853927933,0.50383167677,"Smoking",18.3841869714154
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.27199611333,0.53392584046,0.02928948261,"High fasting plasma glucose",27.0460650578795
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,0.63373134747,1.25489362093,0.06970458611,"High fasting plasma glucose",33.5288673207939
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",1990,0.66528238547,1.38647663326,0.03737749608,"Metabolic risks",25.970000233964
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","Metabolic risks","Rate",2021,1.02797964936,2.02445629733,0.09692086779,"Metabolic risks",31.3637177156191
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,1.24625580466,1.36710649195,1.12867962673,"Tobacco",24.7699046931078
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,1.21689566733,1.42210002724,1.0460859441,"Tobacco",19.2591253910424
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,1.59689032128,1.75810408961,1.44181029012,"Tobacco",23.5428829329491
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,1.28157142773,1.46847157919,1.10789900003,"Tobacco",15.5470543476199
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,0.03970841793,0.21289372298,-0.06462033131,"High body-mass index",0.789222986133675
+"2","Deaths","High-middle SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,0.15233478219,0.43885496359,-0.03518694938,"High body-mass index",2.41091718080605
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,0.23868662108,0.2869399925,0.19142580117,"Tobacco",23.7339195885601
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,0.28647418554,0.32339432634,0.25305779934,"Tobacco",15.1565091361649
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",1990,0.61727235354,0.70909694838,0.54079435936,"Tobacco",24.0958779549353
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","Tobacco","Rate",2021,0.60256154095,0.71853927933,0.50383167677,"Tobacco",18.3841869714154
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.23489368849,0.47042185267,0.02381077362,"High fasting plasma glucose",32.6511476320868
+"2","Deaths","Low SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,0.40072994961,0.78792895059,0.04135960894,"High fasting plasma glucose",37.7378060834435
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,0.07796095213,0.33054989821,-0.07249580878,"High body-mass index",1.14937484740132
+"2","Deaths","High SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,0.21984346725,0.58300912742,-0.03128868803,"High body-mass index",2.66697451218851
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,-0.00859728666,0.00999493599,-0.02039969694,"High body-mass index",-0.854875356419121
+"2","Deaths","Low-middle SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,0.03063103568,0.09419487736,-0.01020529244,"High body-mass index",1.62059827924457
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",1990,0.68721265029,1.38472721357,0.07698602518,"High fasting plasma glucose",26.8260712722855
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","High fasting plasma glucose","Rate",2021,1.00314328114,1.95977396413,0.11003468666,"High fasting plasma glucose",30.6059587050996
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",1990,-0.02530551305,0.02385645811,-0.05576998644,"High body-mass index",-0.987827416120151
+"2","Deaths","Middle SDI","Both","Age-standardized","Pancreatic cancer","High body-mass index","Rate",2021,0.04136175936,0.14731061218,-0.02634212707,"High body-mass index",1.26194963645054

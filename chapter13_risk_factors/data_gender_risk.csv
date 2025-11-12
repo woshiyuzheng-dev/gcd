@@ -1,0 +1,225 @@
+"filename","measure","location","sex","age","cause","rei","metric","year","val","upper","lower"
+"1","Deaths","Global","Male","25-29 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.000217511652321237,41.8366745745396,2.37403854424766
+"1","Deaths","Global","Female","25-29 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.000126066769258104,24.6703554310988,1.37389166280327
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.00101977929579702,201.963931028726,10.7856801097736
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.000378146772774867,73.6909640029947,4.35447924700585
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.00261124843142013,508.374812424477,29.4550823074963
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.000945147335720943,182.393379800445,10.6084972262924
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.00594267082049868,1133.66369170484,68.2284931778723
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.00237078300000322,458.363195024932,26.0356316703333
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0136152376294788,2644.04475774134,160.554882982504
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.00612176906303843,1164.72455081203,69.9053402442826
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0303561201333913,5721.97123393094,365.079409241254
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.015013900421562,2955.61669884969,177.645501005388
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0554561030189201,10685.3964656257,627.807431924547
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0313038999470903,6060.9428903856,364.565629951059
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0847354923744804,16397.8543019016,964.736965228462
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0548796206864045,10504.8414279482,640.707209854874
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.118322156035746,22541.4455863196,1380.35708457462
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0848201794048201,16137.1313897347,988.889105025888
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.133068512337144,24977.8368774816,1510.70475393438
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.105689595726015,20185.312772734,1205.17218332089
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.107971299352636,20058.905370313,1241.78785347705
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0997159350803317,18839.4685082021,1150.17208588414
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0853134566573382,16115.559279858,975.145702514866
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0946894388351061,18260.2217780486,1021.52504749261
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0531438140960805,10058.822468663,553.9719842254
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0684636888279549,13544.4010701803,712.926574096847
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0191407692378927,3690.75993979251,217.051413515617
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0355659135928623,6885.72728094774,387.166634733913
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.25139066837289,47343.969489866,2891.061838509
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.190509775130835,36428.6182193996,2205.35238842532
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.00436564075292806,845.183203469406,47.4489342888985
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","High fasting plasma glucose","Number",2021,0.0121686653202452,2376.30703669332,130.976986716053
+"1","Deaths","Global","Male","20-24 years","Pancreatic cancer","High body-mass index","Number",2021,-1.9357315570196e-06,2.61852255197433,-1.76921238745492
+"1","Deaths","Global","Female","20-24 years","Pancreatic cancer","High body-mass index","Number",2021,3.41431007204844e-07,2.19059947266252,-1.34376947669972
+"1","Deaths","Global","Male","25-29 years","Pancreatic cancer","Metabolic risks","Number",2021,0.000232408989145769,48.7157222186449,0.712117439387572
+"1","Deaths","Global","Female","25-29 years","Pancreatic cancer","Metabolic risks","Number",2021,0.000144269732535636,30.7734950322388,0.3556213127107
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0011073742406338,233.745103794886,5.59734990783669
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","Metabolic risks","Number",2021,0.000447353058462263,91.8565480433894,1.5869271581446
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","Metabolic risks","Number",2021,0.00286455241337914,575.932377658309,16.7523512013125
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","Metabolic risks","Number",2021,0.00113562615051317,227.06548760319,8.60753817635629
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","Metabolic risks","Number",2021,0.00650175331673234,1268.32777718184,51.0674497534867
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","Metabolic risks","Number",2021,0.00282885739119665,550.664420727654,22.1882985704838
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0147427281267888,2920.93277891179,120.470157685504
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","Metabolic risks","Number",2021,0.00710784711870857,1362.96639877368,65.1389915905696
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0324728807005842,6301.06244479985,314.592519010114
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0170734359064087,3340.07667522515,168.980307083815
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0586688761420016,11428.8933647808,596.741573596459
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","Metabolic risks","Number",2021,0.034758992581414,6793.98383277203,376.999759013316
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0887457695637292,17159.1431877722,940.533024144378
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0600151687927251,11441.1224420021,672.822646105228
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","Metabolic risks","Number",2021,0.122233423718023,23234.3704037053,1299.87230653864
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0910863398331008,17340.153100694,1022.53468080829
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","Metabolic risks","Number",2021,0.136149441121693,25634.5029509241,1423.64025341207
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","Metabolic risks","Number",2021,0.112002625851595,21391.1058104168,1249.17538228923
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","Metabolic risks","Number",2021,0.109785338263608,20500.3995920477,1145.26961471897
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","Metabolic risks","Number",2021,0.104471104094627,19755.0658808091,1140.48308674227
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0861256150077979,16456.8738946111,883.372292023688
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0974905816368152,18839.8102099378,1002.75074477885
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0535924682836063,10256.390953767,523.013791642962
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0703663158083437,13933.4081084248,701.411694640439
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0193697737217497,3769.80167460883,195.408195126467
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","Metabolic risks","Number",2021,0.0366742210854883,7135.24001617877,364.332851419052
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","Metabolic risks","Number",2021,0.258382864839715,48859.41435876,2723.51255995071
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","Metabolic risks","Number",2021,0.203088965684696,38793.3824107492,2271.71006309752
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","Metabolic risks","Number",2021,0.0044340634875025,864.48686521477,43.4127041616233
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","Metabolic risks","Number",2021,0.0125422522761825,2459.17351849839,123.348322535863
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","Behavioral risks","Number",2021,0.00212099086515792,249.409998824604,180.446816692693
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","Behavioral risks","Number",2021,0.000188619241293494,21.2018739872365,16.6014164452548
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0054070798587315,636.49013063025,461.726884889996
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","Behavioral risks","Number",2021,0.000514220038366211,57.103905020454,45.8329032042683
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0113283663417798,1319.16763929297,976.46833033961
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","Behavioral risks","Number",2021,0.00132252951767519,148.255440140655,117.293431735157
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0224643103078527,2616.04795325955,1928.45515891581
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","Behavioral risks","Number",2021,0.00322659117837573,368.178850043535,285.219749290234
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0439117214386039,5149.2683776895,3748.74494915652
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0071661326085661,823.729728295822,632.010848695916
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0674319692759581,7858.19077387385,5810.08996917828
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0139095414425578,1582.53741845883,1222.32805235108
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0816327469310765,9410.03827513154,7046.99658212313
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0194203548001499,2222.01696881495,1700.58676614992
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0984290949005771,11445.1172995153,8386.37995381719
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0242219705264636,2845.30268742245,2053.75726738652
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0953083175542127,11176.8030748268,8132.96945969777
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","Behavioral risks","Number",2021,0.025832938036389,3091.42521489155,2157.03483501418
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","Behavioral risks","Number",2021,0.066603338795792,7857.9805711154,5615.36381396531
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0198800224057079,2415.25579622337,1608.30776571644
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0423725460766281,5124.62592022033,3502.85424793401
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0150321133101216,1855.4649237875,1093.11101327893
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0252984423549852,3121.96861158213,2051.26202397187
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0107186849416394,1372.12502754591,741.721659703493
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","Behavioral risks","Number",2021,0.00863743287194553,1096.46315718145,664.786555109166
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","Behavioral risks","Number",2021,0.00579806786272091,773.800144990791,391.492607229912
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","Behavioral risks","Number",2021,0.19373741245479,22581.5902041756,16655.0418482578
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","Behavioral risks","Number",2021,0.0500549085628525,5783.20072294254,4315.32303272762
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","Behavioral risks","Number",2021,0.00166057393908798,236.586725662932,119.962094039811
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","Behavioral risks","Number",2021,0.00186155458129807,269.019972609404,113.493859295853
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","Smoking","Number",2021,0.00212099086515792,249.409998824604,180.446816692693
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","Smoking","Number",2021,0.000188619241293494,21.2018739872365,16.6014164452548
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","Smoking","Number",2021,0.0054070798587315,636.49013063025,461.726884889996
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","Smoking","Number",2021,0.000514220038366211,57.103905020454,45.8329032042683
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","Smoking","Number",2021,0.0113283663417798,1319.16763929297,976.46833033961
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","Smoking","Number",2021,0.00132252951767519,148.255440140655,117.293431735157
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","Smoking","Number",2021,0.0224643103078527,2616.04795325955,1928.45515891581
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","Smoking","Number",2021,0.00322659117837573,368.178850043535,285.219749290234
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","Smoking","Number",2021,0.0439117214386039,5149.2683776895,3748.74494915652
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","Smoking","Number",2021,0.0071661326085661,823.729728295822,632.010848695916
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","Smoking","Number",2021,0.0674319692759581,7858.19077387385,5810.08996917828
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","Smoking","Number",2021,0.0139095414425578,1582.53741845883,1222.32805235108
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","Smoking","Number",2021,0.0816327469310765,9410.03827513154,7046.99658212313
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","Smoking","Number",2021,0.0194203548001499,2222.01696881495,1700.58676614992
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","Smoking","Number",2021,0.0984290949005771,11445.1172995153,8386.37995381719
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","Smoking","Number",2021,0.0242219705264636,2845.30268742245,2053.75726738652
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","Smoking","Number",2021,0.0953083175542127,11176.8030748268,8132.96945969777
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","Smoking","Number",2021,0.025832938036389,3091.42521489155,2157.03483501418
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","Smoking","Number",2021,0.066603338795792,7857.9805711154,5615.36381396531
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","Smoking","Number",2021,0.0198800224057079,2415.25579622337,1608.30776571644
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","Smoking","Number",2021,0.0423725460766281,5124.62592022033,3502.85424793401
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","Smoking","Number",2021,0.0150321133101216,1855.4649237875,1093.11101327893
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","Smoking","Number",2021,0.0252984423549852,3121.96861158213,2051.26202397187
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","Smoking","Number",2021,0.0107186849416394,1372.12502754591,741.721659703493
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","Smoking","Number",2021,0.00863743287194553,1096.46315718145,664.786555109166
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","Smoking","Number",2021,0.00579806786272091,773.800144990791,391.492607229912
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","Smoking","Number",2021,0.19373741245479,22581.5902041756,16655.0418482578
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","Smoking","Number",2021,0.0500549085628525,5783.20072294254,4315.32303272762
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","Smoking","Number",2021,0.00166057393908798,236.586725662932,119.962094039811
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","Smoking","Number",2021,0.00186155458129807,269.019972609404,113.493859295853
+"1","Deaths","Global","Male","20-24 years","Pancreatic cancer","Metabolic risks","Number",2021,-1.9357315570196e-06,2.61852255197433,-1.76921238745492
+"1","Deaths","Global","Female","20-24 years","Pancreatic cancer","Metabolic risks","Number",2021,3.41431007204844e-07,2.19059947266252,-1.34376947669972
+"1","Deaths","Global","Male","20-24 years","Pancreatic cancer","All risk factors","Number",2021,-1.9357315570196e-06,2.61852255197433,-1.76921238745492
+"1","Deaths","Global","Female","20-24 years","Pancreatic cancer","All risk factors","Number",2021,3.41431007204844e-07,2.19059947266252,-1.34376947669972
+"1","Deaths","Global","Male","25-29 years","Pancreatic cancer","All risk factors","Number",2021,0.000232408989145769,48.7157222186449,0.712117439387572
+"1","Deaths","Global","Female","25-29 years","Pancreatic cancer","All risk factors","Number",2021,0.000144269732535636,30.7734950322388,0.3556213127107
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","All risk factors","Number",2021,0.00303817526125373,407.254984870401,205.980100843781
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","All risk factors","Number",2021,0.000619078428837739,108.044996407757,19.528154758613
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","All risk factors","Number",2021,0.00766986781282295,1029.57734700393,531.356434815232
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","All risk factors","Number",2021,0.00159310122871317,268.798150659823,59.7052837787409
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","All risk factors","Number",2021,0.0163279639584903,2178.03606523021,1110.52777839436
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","All risk factors","Number",2021,0.0039732327911182,653.239071437057,157.399349290738
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","All risk factors","Number",2021,0.0336300274954496,4583.7904492538,2221.8776171313
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","All risk factors","Number",2021,0.00980675301563649,1589.42058339368,381.910003339498
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","All risk factors","Number",2021,0.0680726347882239,9212.22234824144,4501.56230546541
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","All risk factors","Number",2021,0.022828852170786,3797.9586289324,892.859025190485
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","All risk factors","Number",2021,0.11132606089482,15528.4790398139,6998.45051156162
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","All risk factors","Number",2021,0.0454135410200412,7469.50990296249,1743.85279278228
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","All risk factors","Number",2021,0.149496580551022,21247.7232275518,8632.77044337357
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","All risk factors","Number",2021,0.0740995044135627,12420.3747472406,2486.87074884384
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","All risk factors","Number",2021,0.193293797574395,28124.7113156454,10829.150487966
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","All risk factors","Number",2021,0.108054937319478,18365.3045588032,3301.90437045982
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","All risk factors","Number",2021,0.203607702966273,29909.0832597271,10463.7627556777
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","All risk factors","Number",2021,0.129774782163279,22423.2554803023,3843.29191154686
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","All risk factors","Number",2021,0.156469562279862,23470.0912720067,7398.2536208462
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","All risk factors","Number",2021,0.118017642745716,20619.0271211546,2996.65296760503
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","All risk factors","Number",2021,0.115744467973705,18349.5646278897,4792.61026388512
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","All risk factors","Number",2021,0.107898094457046,19581.0867168825,2356.58334668036
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","All risk factors","Number",2021,0.0714437381118238,11553.1708374112,2866.13316221378
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","All risk factors","Number",2021,0.0778812554693671,14478.0132096868,1582.67863461196
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","All risk factors","Number",2021,0.0256281446437478,4251.1066948372,970.377518220328
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","All risk factors","Number",2021,0.0408824241375257,7462.6044646883,818.622127677319
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","All risk factors","Number",2021,0.396901500540667,57506.2606184942,21332.6292268064
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","All risk factors","Number",2021,0.237829719482757,40734.0858756141,7126.76422991877
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","All risk factors","Number",2021,0.00566566938361915,959.670512557121,192.95665730754
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","All risk factors","Number",2021,0.0139460415204295,2582.20676339761,267.255847039031
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","Tobacco","Number",2021,0.00212099086515792,249.409998824604,180.446816692693
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","Tobacco","Number",2021,0.000188619241293494,21.2018739872365,16.6014164452548
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","Tobacco","Number",2021,0.0054070798587315,636.49013063025,461.726884889996
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","Tobacco","Number",2021,0.000514220038366211,57.103905020454,45.8329032042683
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","Tobacco","Number",2021,0.0113283663417798,1319.16763929297,976.46833033961
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","Tobacco","Number",2021,0.00132252951767519,148.255440140655,117.293431735157
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","Tobacco","Number",2021,0.0224643103078527,2616.04795325955,1928.45515891581
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","Tobacco","Number",2021,0.00322659117837573,368.178850043535,285.219749290234
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","Tobacco","Number",2021,0.0439117214386039,5149.2683776895,3748.74494915652
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","Tobacco","Number",2021,0.0071661326085661,823.729728295822,632.010848695916
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","Tobacco","Number",2021,0.0674319692759581,7858.19077387385,5810.08996917828
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","Tobacco","Number",2021,0.0139095414425578,1582.53741845883,1222.32805235108
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","Tobacco","Number",2021,0.0816327469310765,9410.03827513154,7046.99658212313
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","Tobacco","Number",2021,0.0194203548001499,2222.01696881495,1700.58676614992
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","Tobacco","Number",2021,0.0984290949005771,11445.1172995153,8386.37995381719
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","Tobacco","Number",2021,0.0242219705264636,2845.30268742245,2053.75726738652
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","Tobacco","Number",2021,0.0953083175542127,11176.8030748268,8132.96945969777
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","Tobacco","Number",2021,0.025832938036389,3091.42521489155,2157.03483501418
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","Tobacco","Number",2021,0.066603338795792,7857.9805711154,5615.36381396531
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","Tobacco","Number",2021,0.0198800224057079,2415.25579622337,1608.30776571644
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","Tobacco","Number",2021,0.0423725460766281,5124.62592022033,3502.85424793401
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","Tobacco","Number",2021,0.0150321133101216,1855.4649237875,1093.11101327893
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","Tobacco","Number",2021,0.0252984423549852,3121.96861158213,2051.26202397187
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","Tobacco","Number",2021,0.0107186849416394,1372.12502754591,741.721659703493
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","Tobacco","Number",2021,0.00863743287194553,1096.46315718145,664.786555109166
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","Tobacco","Number",2021,0.00579806786272091,773.800144990791,391.492607229912
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","Tobacco","Number",2021,0.19373741245479,22581.5902041756,16655.0418482578
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","Tobacco","Number",2021,0.0500549085628525,5783.20072294254,4315.32303272762
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","Tobacco","Number",2021,0.00166057393908798,236.586725662932,119.962094039811
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","Tobacco","Number",2021,0.00186155458129807,269.019972609404,113.493859295853
+"1","Deaths","Global","Male","25-29 years","Pancreatic cancer","High body-mass index","Number",2021,1.68657677919108e-05,9.30738930099224,-2.96628473444919
+"1","Deaths","Global","Female","25-29 years","Pancreatic cancer","High body-mass index","Number",2021,1.98183613563558e-05,7.69905228696194,-1.6301613260681
+"1","Deaths","Global","Male","30-34 years","Pancreatic cancer","High body-mass index","Number",2021,0.000101186832739098,41.2207376158112,-9.60120348547214
+"1","Deaths","Global","Female","30-34 years","Pancreatic cancer","High body-mass index","Number",2021,7.69630215654403e-05,23.1823187896881,-2.92799717451834
+"1","Deaths","Global","Male","35-39 years","Pancreatic cancer","High body-mass index","Number",2021,0.00029945385703354,106.684497729569,-16.1524095968118
+"1","Deaths","Global","Female","35-39 years","Pancreatic cancer","High body-mass index","Number",2021,0.000217462586627901,60.3664291596481,-4.05355126969814
+"1","Deaths","Global","Male","40-44 years","Pancreatic cancer","High body-mass index","Number",2021,0.000684034680182851,219.056598160501,-28.5837810426647
+"1","Deaths","Global","Female","40-44 years","Pancreatic cancer","High body-mass index","Number",2021,0.00054058758176954,141.131269348747,-5.10271418532834
+"1","Deaths","Global","Male","45-49 years","Pancreatic cancer","High body-mass index","Number",2021,0.00144437804209144,447.693769825205,-49.5105904146818
+"1","Deaths","Global","Female","45-49 years","Pancreatic cancer","High body-mass index","Number",2021,0.00121686001280051,313.506881078925,-9.66677203119217
+"1","Deaths","Global","Male","50-54 years","Pancreatic cancer","High body-mass index","Number",2021,0.00288866655337992,877.371044464827,-92.888158610676
+"1","Deaths","Global","Female","50-54 years","Pancreatic cancer","High body-mass index","Number",2021,0.00266596905567293,676.036239195445,-13.4952106979195
+"1","Deaths","Global","Male","55-59 years","Pancreatic cancer","High body-mass index","Number",2021,0.00472530020081782,1402.93309006989,-125.068562975476
+"1","Deaths","Global","Female","55-59 years","Pancreatic cancer","High body-mass index","Number",2021,0.0047707105420728,1189.3631248215,-22.6444091335183
+"1","Deaths","Global","Male","60-64 years","Pancreatic cancer","High body-mass index","Number",2021,0.00650079417645646,1844.70462470328,-147.276148797329
+"1","Deaths","Global","Female","60-64 years","Pancreatic cancer","High body-mass index","Number",2021,0.00759619363340752,1854.23603751368,-16.4455104282175
+"1","Deaths","Global","Male","65-69 years","Pancreatic cancer","High body-mass index","Number",2021,0.00692970249062598,2097.07012128308,-229.058371665879
+"1","Deaths","Global","Female","65-69 years","Pancreatic cancer","High body-mass index","Number",2021,0.0098072174242464,2433.15646790688,-39.6545993220817
+"1","Deaths","Global","Male","70-74 years","Pancreatic cancer","High body-mass index","Number",2021,0.00590555134080175,1968.57530920005,-279.300717279503
+"1","Deaths","Global","Female","70-74 years","Pancreatic cancer","High body-mass index","Number",2021,0.0102614167815326,2612.71676056308,-73.1679811756664
+"1","Deaths","Global","Male","75-79 years","Pancreatic cancer","High body-mass index","Number",2021,0.00366709616338441,1363.63694878583,-252.548696533227
+"1","Deaths","Global","Female","75-79 years","Pancreatic cancer","High body-mass index","Number",2021,0.00795894701867051,2097.98922613414,-98.0930911637956
+"1","Deaths","Global","Male","80-84 years","Pancreatic cancer","High body-mass index","Number",2021,0.001785030763959,838.362693917993,-228.581259983816
+"1","Deaths","Global","Female","80-84 years","Pancreatic cancer","High body-mass index","Number",2021,0.00482929956806047,1413.52657730725,-176.733873623311
+"1","Deaths","Global","Male","85-89 years","Pancreatic cancer","High body-mass index","Number",2021,0.00100455496466835,507.892251342509,-152.436824838454
+"1","Deaths","Global","Female","85-89 years","Pancreatic cancer","High body-mass index","Number",2021,0.00327492691835981,987.31681482978,-146.899274334169
+"1","Deaths","Global","Male","90-94 years","Pancreatic cancer","High body-mass index","Number",2021,0.000462109206966598,215.467435495692,-56.1759868848591
+"1","Deaths","Global","Female","90-94 years","Pancreatic cancer","High body-mass index","Number",2021,0.00180600616711396,558.254615601539,-85.4234694875761
+"1","Deaths","Global","Male","65-74 years","Pancreatic cancer","High body-mass index","Number",2021,0.0128352538314277,4049.99390477573,-508.297222224168
+"1","Deaths","Global","Female","65-74 years","Pancreatic cancer","High body-mass index","Number",2021,0.0200686342057791,5021.40874108031,-126.880949949666
+"1","Deaths","Global","Male","95+ years","Pancreatic cancer","High body-mass index","Number",2021,0.000122165379282872,53.4708330520041,-13.6933966433728
+"1","Deaths","Global","Female","95+ years","Pancreatic cancer","High body-mass index","Number",2021,0.00057581401789278,184.889257061176,-37.2140314286883
